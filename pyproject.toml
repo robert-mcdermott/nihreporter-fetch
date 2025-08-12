@@ -1,0 +1,22 @@
+[project]
+name = "nihreporter-fetch"
+version = "0.1.0"
+description = "NIH RePORTER data fetching CLI"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32.4",
+]
+
+[project.scripts]
+nihreporter-fetch = "nihreporter_client:cli_entrypoint"
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["nihreporter_client", "main"]
+
+[tool.uv]
+package = true
