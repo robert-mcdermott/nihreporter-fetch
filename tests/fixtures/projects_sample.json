@@ -1,0 +1,2213 @@
+{
+ "projects": [
+  {
+   "appl_id": 11124893,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "5R01AG088223-02",
+   "project_serial_num": "AG088223",
+   "organization": {
+    "org_name": "FRED HUTCHINSON CANCER CENTER",
+    "city": null,
+    "country": null,
+    "org_city": "SEATTLE",
+    "org_country": "UNITED STATES",
+    "org_state": "WA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "806433145"
+    ],
+    "org_ueis": [
+     "TJFZLPP6NYL6"
+    ],
+    "primary_duns": "806433145",
+    "primary_uei": "TJFZLPP6NYL6",
+    "org_fips": "US",
+    "org_ipf_code": "10068583",
+    "org_zipcode": "981094433",
+    "external_org_id": 10068583
+   },
+   "award_type": "5",
+   "activity_code": "R01",
+   "award_amount": 498790,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "5",
+    "activity_code": "R01",
+    "ic_code": "AG",
+    "serial_num": "088223",
+    "support_year": "02",
+    "full_support_year": "02",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 1860036,
+     "first_name": "JAMES",
+     "middle_name": "R",
+     "last_name": "PRIESS",
+     "is_contact_pi": true,
+     "full_name": "JAMES R PRIESS",
+     "title": ""
+    }
+   ],
+   "contact_pi_name": "PRIESS, JAMES R",
+   "program_officers": [
+    {
+     "first_name": "MAX",
+     "middle_name": "",
+     "last_name": "GUO",
+     "full_name": "MAX  GUO"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "AG",
+    "abbreviation": "NIA",
+    "name": "National Institute on Aging",
+    "admin_org_id": "12500002",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "AG",
+     "name": "National Institute on Aging",
+     "abbreviation": "NIA",
+     "total_cost": 498790.0,
+     "direct_cost_ic": 283403.0,
+     "indirect_cost_ic": 215387.0
+    }
+   ],
+   "cong_dist": "WA-07",
+   "spending_categories": [
+    31,
+    232,
+    276,
+    400,
+    5970
+   ],
+   "project_start_date": "2024-07-01T00:00:00",
+   "project_end_date": "2028-06-30T00:00:00",
+   "organization_type": {
+    "name": "Other Domestic Non-Profits",
+    "code": "NP",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -122.329606,
+    "lat": 47.626482
+   },
+   "opportunity_number": "PA-20-185",
+   "full_study_section": {
+    "srg_code": "CMAD",
+    "srg_flex": null,
+    "sra_designator_code": null,
+    "sra_flex_code": null,
+    "group_code": null,
+    "name": "Cellular Mechanisms in Aging and Development Study Section[CMAD]"
+   },
+   "award_notice_date": "2025-07-31T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01AG088223",
+   "terms": "<21+ years old><3-D><3-Dimensional><3D><Abscission><Actin Filaments><Adult><Adult Human><Affect><Age><Aging><Apoptosis><Apoptosis Pathway><BSCL2><BSCL2 gene><Binding Proteins><Body Tissues><C elegans><C. elegans><C.elegans><COP-1><COP-I><COPI><COPI Protein><Caenorhabditis elegans><Cell Aging><Cell Body><Cell Nucleus><Cell Senescence><Cells><Cellular Aging><Cellular Senescence><Cellular Stress><Cellular Stress Response><Cellular injury><Chromosomal Organization><Chromosomal Structure><Chromosomal Territory><Chromosome Organization><Chromosome Structures><Chromosome Territory><Coat Protein Complex I><Complex><Cyst><Cytoplasm><DNA mutation><Defect><Deposit><Deposition><Deterioration><Development><Endoplasmic Reticulum><Enzyme Gene><Enzymes><Ergastoplasm><Event><Excision><Experimental Models><Extirpation><Fat Droplet><Fats><Fatty acid glycerol esters><Frequencies><Gametes><Genes><Genetic><Genetic Change><Genetic Models><Genetic Screening><Genetic defect><Genetic mutation><Genetic study><Germ Cells><Germ-Line Cells><Goals><Health><Hepatic Cells><Hepatic Disorder><Hepatic Parenchymal Cell><Hepatocyte><Heterochromatin><Human><Institution><Intestinal><Intestines><Investments><Lamin A><Lamin Type A><Lamins><Ligand Binding Protein><Ligand Binding Protein Gene><Link><Lipase><Lipid Inclusion><Lipids><Lipoproteins><Liver><Liver Cells><Liver diseases><Mediating><Microfilaments><Modeling><Modern Man><Morphology><Mouse Homolog of GNG3LG><Mutation><Myofilaments><Nematoda><Nematodes><Nuclear><Nuclear Envelope><Nuclear Inner Membrane><Nuclear Lamina><Nuclear Membrane><Nuclear Structure><Nucleoplasm><Nucleus><Organism><Pathway interactions><Peripheral><Privatization><Progenitor Cells><Programmed Cell Death><Protein Binding><Proteins><Removal><Replicative Senescence><Reproduction><Reproductive Cells><Research><Retrieval><Role><Sex Cell><Surgical Removal><System><Testing><Tissues><Triacylglycerol Hydrolase><Triacylglycerol Lipase><Triacylglycerol acylhydrolase><Tributyrinase><Triglyceridase><Triglyceride Lipase><Triolean Hydrolase><Type V IF Protein><Vacuole><Work><adulthood><age associated><age correlated><age dependent><age linked><age related><age related pathways><age specific><ages><aging associated mechanism><aging mechanism><aging pathway><aging related mechanism><aging related pathways><biological mechanism of age><biological pathways of age><bound protein><bowel><cell damage><cell injury><cell stress><cell type><cellular damage><damage to cells><developmental><dominant genetic mutation><dominant mutation><forward genetics><genome mutation><healthspan><healthy aging><healthy human aging><healthy life span><hepatic body system><hepatic disease><hepatic organ system><hepatopathy><initial cell><injury to cells><liver disorder><living system><mechanism regulating aging><mechanisms involved in aging><mutant><older adult><older adulthood><pathway><pathway involved in aging><prevent><preventing><progenitor cell pool><progenitor cell population><progenitor pool><progenitor population><replicative aging><reproductive development><resection><reverse genetics><roundworm><seipin><sexual cell><social role><stem and progenitor cell population><stem cell pool><stem cell population><stem cells><three dimensional><tool><tributyrase>",
+   "pref_terms": "3-Dimensional;Adult;Affect;Age;Aging;Apoptosis;BSCL2 gene;Binding Proteins;Caenorhabditis elegans;Cell Aging;Cell Nucleus;Cells;Cellular Stress;Chromosome Structures;Chromosome Territory;Coat Protein Complex I;Complex;Cyst;Cytoplasm;Defect;Deposition;Deterioration;Development;Endoplasmic Reticulum;Enzymes;Event;Excision;Experimental Models;Fatty acid glycerol esters;Frequencies;Genes;Genetic;Genetic Models;Genetic Screening;Genetic study;Germ Cells;Goals;Health;Hepatocyte;Heterochromatin;Human;Institution;Intestines;Investments;Lamin Type A;Lamins;Link;Lipase;Lipid Inclusion;Lipids;Lipoproteins;Liver;Liver diseases;Mediating;Microfilaments;Modeling;Morphology;Mutation;Nematoda;Nuclear;Nuclear Envelope;Nuclear Inner Membrane;Nuclear Lamina;Nuclear Structure;Nucleoplasm;Organism;Pathway interactions;Peripheral;Privatization;Proteins;Reproduction;Research;Retrieval;Role;System;Testing;Tissues;Vacuole;Work;age related;aging mechanism;cell injury;cell type;dominant genetic mutation;forward genetics;healthspan;healthy aging;mutant;older adult;prevent;reproductive development;reverse genetics;stem cell population;stem cells;tool",
+   "abstract_text": "Project Summary/Abstract\nThe nematode C. elegans is a leading experimental and genetic model for aging, and both public and private\ninstitutions have made enormous investments in aging research in this system. Several lines of evidence\nshow that the intestine is the major tissue affecting healthy lifespan in C. elegans. The intestine is likely to be a\nsensitive and early indicator of age-dependent cellular stress, as the intestine lacks an apoptosis pathway or\nstem cell population to remove or replace damaged cells. Intestinal nuclei have been shown to undergo\nprogressive deterioration during aging, including the loss of entire nuclei. Old, abnormal intestinal nuclei show\na loss of peripheral heterochromatin, a disruption of chromosomal organization, and the accumulation of\nintranuclear bodies that contain the protein lamin. Recent studies showed that some intestinal nuclei show\nabnormalities as early as the first two days of adulthood, and that these early abnormalities include the\nformation of lamin-containing nuclear bodies and the loss of peripheral heterochromatin. Because these\ndefects occur early in development, they are likely to represent critical events that drive nuclear deterioration\nduring aging, rather than indirect consequences of age-compromised cells. Some of the intranuclear lamin\nand loss of peripheral heterochromatin is associated with fat accumulation in the nucleus, called nuclear lipid\ndroplets or nLDs. Recent studies have shown that diverse liver diseases in humans are associated with\nincreased numbers of nLDs, and nLDs in C. elegans have been shown to increase during aging. nLDs in other\nsystems show a complex relationship with fat, and nLDs in the C. elegans intestine appear to be correlated\nwith changes in lipid storage that occur during reproductive development. This proposal investigates the origin\nof intranuclear lamin in intestinal cells, its relationship to nLDs, and the role of lipid storage. The research uses\nC. elegans tools for forward and reverse genetics to identify pathways that cause, or act to remove, the\nintranuclear lamin. The project analyzes specific roles for two genes which are involved in nLD formation and\nthat are conserved in humans. The long-term goal of the project is to develop strategies that modulate these\npathways to intervene in age-associated tissue deterioration.",
+   "project_title": "Tissue Mechanisms of Aging in the Genetic Model C. elegans",
+   "phr_text": "Project Narrative\nAging cells show considerable deterioration of nuclear structure, but specific factors or events that cause the\ndeterioration are poorly understood. This study uses the genetic model C. elegans to analyze cellular\nmechanisms that drive nuclear deterioration. A major focus is the formation and consequences of nuclear fat\ndeposits that accumulate in some cell types during aging, and that have the potential to damage the nuclear\nenvelope.",
+   "spending_categories_desc": "Aging; Digestive Diseases; Genetics; Liver Disease; Stem Cell and Progenitor Cell Research",
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-07-01T00:00:00",
+   "budget_end": "2026-06-30T00:00:00",
+   "cfda_code": "93.866",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 283403,
+   "indirect_cost_amt": 215387,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11124893",
+   "date_added": "2025-08-09T18:24:48"
+  },
+  {
+   "appl_id": 11014863,
+   "subproject_id": "7094",
+   "fiscal_year": 2025,
+   "project_num": "2P30CA015704-50",
+   "project_serial_num": "CA015704",
+   "organization": {
+    "org_name": "FRED HUTCHINSON CANCER CENTER",
+    "city": null,
+    "country": null,
+    "org_city": "SEATTLE",
+    "org_country": "UNITED STATES",
+    "org_state": "WA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "806433145"
+    ],
+    "org_ueis": [
+     "TJFZLPP6NYL6"
+    ],
+    "primary_duns": "806433145",
+    "primary_uei": "TJFZLPP6NYL6",
+    "org_fips": "US",
+    "org_ipf_code": "10068583",
+    "org_zipcode": "981094433",
+    "external_org_id": 10068583
+   },
+   "award_type": "2",
+   "activity_code": "P30",
+   "award_amount": 331563,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "2",
+    "activity_code": "P30",
+    "ic_code": "CA",
+    "serial_num": "015704",
+    "support_year": "50",
+    "full_support_year": "50",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 1977859,
+     "first_name": "Nina",
+     "middle_name": "",
+     "last_name": "Salama",
+     "is_contact_pi": true,
+     "full_name": "Nina  Salama",
+     "title": "PROFESSOR"
+    }
+   ],
+   "contact_pi_name": "SALAMA, NINA ",
+   "program_officers": [],
+   "agency_ic_admin": {
+    "code": "CA",
+    "abbreviation": "NCI",
+    "name": "National Cancer Institute",
+    "admin_org_id": "12500008",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "CA",
+     "name": "National Cancer Institute",
+     "abbreviation": "NCI",
+     "total_cost": 331563.0,
+     "direct_cost_ic": 188388.0,
+     "indirect_cost_ic": 143175.0
+    }
+   ],
+   "cong_dist": "WA-07",
+   "spending_categories": [
+    132,
+    679
+   ],
+   "project_start_date": "1997-01-01T00:00:00",
+   "project_end_date": "2029-12-31T00:00:00",
+   "organization_type": {
+    "name": "Other Domestic Non-Profits",
+    "code": "NP",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -122.329606,
+    "lat": 47.626482
+   },
+   "opportunity_number": "PAR-21-321",
+   "full_study_section": {
+    "srg_code": "NCI",
+    "srg_flex": "A",
+    "sra_designator_code": null,
+    "sra_flex_code": null,
+    "group_code": null,
+    "name": "Cancer Centers Study Section (A)[NCI-A]"
+   },
+   "award_notice_date": "2025-03-14T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RC",
+   "core_project_num": "P30CA015704",
+   "terms": "<0-11 years old><2 year college><Advanced Cancer><Advanced Malignant Neoplasm><Award><Awareness><Biomedical Research><CCSG><Cancer Biology><Cancer Center Support Grant><Cancers><Career Choice><Career Mobility><Career Path><Catchment Area><Child><Child Youth><Children (0-21)><Clinical><Clinical Research><Clinical Study><Collaborations><Communication Programs><Community Outreach><Country><Curriculum><Data><Data Bases><Data Science><Databases><Dedications><Development><Discipline><Education><Education and Training><Educational Curriculum><Educational aspects><Educational workshop><Ensure><Faculty><Faculty Education><Faculty Recruitment><Faculty Training><Funding><Generalized Growth><Goals><Grant><Growth><Incubators><Infrastructure><Institution><Internships><Investigators><Investments><Leadership><Malignant Neoplasms><Malignant Tumor><Mental Health><Mental Hygiene><Mentors><Mentorship><Methodology><Mission><Outcome><Participant><Pathway interactions><Postdoc><Postdoctoral Fellow><Psychological Health><Research><Research Associate><Research Personnel><Research Resources><Research Support><Research Training><Researchers><Resource Development><Resource Sharing><Resources><STEM career><STEM workforce><Scholars Program><Science><Scientist><Series><Structure><Students><Teacher Education><Teacher Educator><Teacher Preparation><Teacher Professional Development><Teacher Training><Tissue Growth><Training><Training Programs><Training and Education><Universities><Washington><Workshop><Writing><anti-cancer research><cancer education><cancer research><career><career advancement><career aspiration><career interest><career pathway><career track><career transition><cohort><collaboration with communities><college student><community collaboration><community college><community engagement><community partners><community-based collaboration><community-based partners><data base><developmental><engagement with communities><faculty development><faculty professional development><flasks><graduate student><high school><innovate><innovation><innovative><instructor training><intern><junior college><kids><lesson plans><literacy><malignancy><meeting><meetings><neoplasm/cancer><next generation><ontogeny><outreach program><pathway><peer support><post-doc><post-doctoral><post-doctoral trainee><programs><recruit><recruit teachers><research associates><research faculty><resilience><resilient><science education><science, technology, engineering and math career><science, technology, engineering and math workforce><science, technology, engineering and mathematics career><science, technology, engineering and mathematics workforce><scientific literacy><scientifically literate><skills><success><teacher><teacher development><teacher recruitment><training opportunity><two year college><university student><youngster>",
+   "pref_terms": "Advanced Malignant Neoplasm;Award;Awareness;Biomedical Research;Cancer Biology;Cancer Center Support Grant;Career Choice;Career Mobility;Catchment Area;Child;Clinical;Clinical Research;Collaborations;Communication Programs;Community Outreach;Country;Data;Data Science;Databases;Dedications;Development;Discipline;Education;Educational Curriculum;Educational workshop;Ensure;Faculty;Faculty Recruitment;Funding;Goals;Grant;Growth;Incubators;Infrastructure;Institution;Internships;Investments;Leadership;Malignant Neoplasms;Mental Health;Mentors;Mentorship;Methodology;Mission;Outcome;Participant;Pathway interactions;Postdoctoral Fellow;Research;Research Personnel;Research Support;Research Training;Resource Development;Resource Sharing;Resources;STEM career;Scholars Program;Science;Scientist;Series;Structure;Students;Teacher Professional Development;Training;Training Programs;Training and Education;Universities;Washington;Writing;anti-cancer research;cancer education;career;cohort;community collaboration;community college;community engagement;community partners;flasks;graduate student;high school;innovation;literacy;meetings;next generation;outreach program;peer support;programs;recruit;research faculty;resilience;science education;scientific literacy;skills;success;teacher;training opportunity;university student",
+   "abstract_text": "PROJECT SUMMARY \nThe Fred Hutch/University of Washington/Seattle Children’s Cancer Consortium aims to be at the forefront of training the next generation of cancer scientists and clinicians. Education and training have always been a core value and central to our mission, and we propose here to emphasize and enhance our training mission and impact. The Cancer Research Training and Education Coordination (CRTEC) component serves as a centralized resource that leverages substantial institutional investment and Cancer Center Support Grant resources to advance the CRTEC strategic priorities: 1) enhance support for trainee and faculty professional development and leadership growth, 2) collect and use data and metrics on education and training outcomes across the Consortium, 3) build education programs and pathways that reach trainees and teachers across our catchment area, and 4) maintain and embellish outreach and communication programs that increase awareness and build literacy around cancer and cancer research related careers. In the last funding period, we built a CRTEC infrastructure through the Fred Hutch Office of Education and Training that is closely integrated with similar efforts at the University of Washington and Seattle Children’s which we use in the current funding period to support four aims. We will inspire young students to engage in hands-on science and enter scientific career pathways (Aim 1), provide exceptional training and support for graduate students and postgraduate fellows (postdoctoral and clinical) so they will be poised to obtain a range of careers in cancer research (Aim 2), maximize the success of junior faculty through mentoring, enhancing leadership skills, and professional development resources (Aim 3), and support innovative programing for education and training opportunities across the educational continuum in our Consortium, our catchment area, and beyond (Aim 4). To accomplish these aims we collaborate extensively with Community Outreach and Engagement to ensure access and engagement of communities throughout Washington state. We partner with leadership to enhance recruitment of scholars and support their retention by creating programming and support structures that recognize the unique needs of trainees and faculty.",
+   "project_title": "Cancer Research Training and Education Coordination",
+   "phr_text": null,
+   "spending_categories_desc": "Cancer; Pediatric",
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-01-01T00:00:00",
+   "budget_end": "2025-12-31T00:00:00",
+   "cfda_code": null,
+   "funding_mechanism": "Research Centers",
+   "direct_cost_amt": 188388,
+   "indirect_cost_amt": 143175,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11014863",
+   "date_added": "2025-03-16T19:55:12"
+  },
+  {
+   "appl_id": 10303004,
+   "subproject_id": null,
+   "fiscal_year": 2021,
+   "project_num": "3R01MD013769-03S1",
+   "project_serial_num": "MD013769",
+   "organization": {
+    "org_name": "NEW YORK UNIVERSITY SCHOOL OF MEDICINE",
+    "city": null,
+    "country": null,
+    "org_city": "NEW YORK",
+    "org_country": "UNITED STATES",
+    "org_state": "NY",
+    "org_state_name": null,
+    "dept_type": "INTERNAL MEDICINE/MEDICINE",
+    "fips_country_code": null,
+    "org_duns": [
+     "121911077"
+    ],
+    "org_ueis": [
+     "M5SZJ6VHUHN8"
+    ],
+    "primary_duns": "121911077",
+    "primary_uei": "M5SZJ6VHUHN8",
+    "org_fips": "US",
+    "org_ipf_code": "5998304",
+    "org_zipcode": "10016",
+    "external_org_id": 5998304
+   },
+   "award_type": "3",
+   "activity_code": "R01",
+   "award_amount": 686370,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "3",
+    "activity_code": "R01",
+    "ic_code": "MD",
+    "serial_num": "013769",
+    "support_year": "03",
+    "full_support_year": "03S1",
+    "suffix_code": "S1"
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 2667413,
+     "first_name": "OLUGBENGA",
+     "middle_name": "G.",
+     "last_name": "OGEDEGBE",
+     "is_contact_pi": false,
+     "full_name": "OLUGBENGA G. OGEDEGBE",
+     "title": "DIRECTOR AND PROFESSOR"
+    },
+    {
+     "profile_id": 1874791,
+     "first_name": "MILAGROS",
+     "middle_name": "C",
+     "last_name": "ROSAL",
+     "is_contact_pi": false,
+     "full_name": "MILAGROS C ROSAL",
+     "title": ""
+    },
+    {
+     "profile_id": 8182241,
+     "first_name": "Antoinette",
+     "middle_name": "M",
+     "last_name": "Schoenthaler",
+     "is_contact_pi": true,
+     "full_name": "Antoinette M Schoenthaler",
+     "title": "PROFESSOR"
+    }
+   ],
+   "contact_pi_name": "SCHOENTHALER, ANTOINETTE M",
+   "program_officers": [
+    {
+     "first_name": "YEWANDE",
+     "middle_name": "A",
+     "last_name": "OLADEINDE",
+     "full_name": "YEWANDE A OLADEINDE"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "MD",
+    "abbreviation": "NIMHD",
+    "name": "National Institute on Minority Health and Health Disparities",
+    "admin_org_id": "12500036",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2021,
+     "code": "OD",
+     "name": "NIH Office of the Director",
+     "abbreviation": "OD",
+     "total_cost": 686370.0,
+     "direct_cost_ic": 497942.0,
+     "indirect_cost_ic": 315106.0
+    }
+   ],
+   "cong_dist": "NY-12",
+   "spending_categories": [
+    89,
+    140,
+    176,
+    180,
+    187,
+    4835,
+    5011,
+    4998,
+    3641,
+    298,
+    327,
+    3584,
+    701
+   ],
+   "project_start_date": "2019-04-09T00:00:00",
+   "project_end_date": "2023-05-31T00:00:00",
+   "organization_type": {
+    "name": "SCHOOLS OF MEDICINE",
+    "code": "10",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -73.974354,
+    "lat": 40.669895
+   },
+   "opportunity_number": "PA-20-135",
+   "full_study_section": {
+    "srg_code": "ZRG1",
+    "srg_flex": null,
+    "sra_designator_code": "HDM",
+    "sra_flex_code": "Y",
+    "group_code": "56",
+    "name": "Special Emphasis Panel[ZRG1-HDM-Y(56)]"
+   },
+   "award_notice_date": "2020-12-14T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01MD013769",
+   "terms": "<21+ years old><Address><Adherence><Adult><Adult Human><Affect><Anti-Hypertensive Agents><Anti-Hypertensive Drugs><Anti-Hypertensives><Antihypertensive Agents><Antihypertensive Drugs><Antihypertensives><Attitude><Awareness><BP control><BP homeostasis><BP management><BP regulation><Blood Pressure><Caring><Clinic><Clinic Visits><Clinical><Cluster randomization trial><Cluster randomized trial><Consolidated Framework for Implementation Research><Consolidated Framework for Implementation Science><Consolidated Framework for Implementing Change><Data><Dimensions><Drugs><Effectiveness><Electronic Health Record><Ensure><Ethnic People><Ethnic Population><Ethnic group><Ethnicity People><Ethnicity Population><Evidence based intervention><Evidence based practice><Family Health><Family health status><Feedback><Health><Health Care Reform><Health Care Team><Health Reform><Healthcare Reform><Healthcare Team><Hypertension><Hypotensive Agent><Hypotensive Drugs><Hypotensives><Individual><Intervention><Intervention Strategies><Knowledge><Latino><Laws><Learning><Medical><Medical Care Team><Medication><Methods><Minority Groups><Minority People><Minority Population><Modeling><New York City><Non-Hispanic><Nonhispanic><Not Hispanic or Latino><Outcome><Patient-Centered Care><Patients><Personalized medical approach><Pharmaceutic Preparations><Pharmaceutical Preparations><Pharmacies><Pharmacy facility><Phase><Prevalence><Preventative screening><Preventive screening><Primary Care><Primary Care Physician><Primary Health Care><Primary Healthcare><Randomized Controlled Trials><Records><Research><Sampling><Self-Direction><Standardization><System><Testing><Time><Translating><Translation Process><Translations><Vascular Hypertensive Disease><Vascular Hypertensive Disorder><Vulnerable Populations><Work><adulthood><arm><assess effectiveness><base><blood pressure control><blood pressure homeostasis><blood pressure management><blood pressure regulation><breast exam><breast examination><clinical outcome measures><clinical practice><design><designing><determine effectiveness><disparity reduction><drug adherence><drug compliance><drug/agent><effectiveness assessment><effectiveness evaluation><efficacious intervention><electronic health care record><electronic healthcare record><ethnicity group><ethnoracial><evaluate effectiveness><evidence base><formative assessment><formative evaluation><health care quality><health care service><health care settings><health goals><healthcare quality><healthcare service><healthcare settings><high blood pressure><hyperpiesia><hyperpiesis><hypertension control><hypertension management><hypertension treatment><hypertensive disease><implementation facilitation><implementation fidelity><implementation outcomes><implementation strategy><improved><individualized approach><interventional strategy><medication adherence><medication compliance><motivational enhancement therapy><motivational interview><patient barriers><patient-level barriers><personalized approach><practice factors><practice-level factors><precision approach><primary care setting><primary outcome><racial and ethnic><reduce disparity><regulate BP><regulate blood pressure><response><routine care><routine practice><safety net><secondary outcome><skills><statistics><strategies for implementation><systematic review><tailored approach><treatment as usual><usual care><vulnerable group>",
+   "pref_terms": "Address;Adherence;Adult;Affect;Antihypertensive Agents;Attitude;Awareness;Blood Pressure;Caring;Clinic;Clinic Visits;Clinical;Cluster randomized trial;Consolidated Framework for Implementation Research;Data;Dimensions;Effectiveness;Electronic Health Record;Ensure;Ethnic group;Evidence based intervention;Evidence based practice;Family health status;Feedback;Health;Health Care Reform;Hypertension;Individual;Intervention;Knowledge;Latino;Laws;Learning;Medical;Medical Care Team;Methods;Minority Groups;Modeling;New York City;Not Hispanic or Latino;Outcome;Patient-Centered Care;Patients;Pharmaceutical Preparations;Pharmacy facility;Phase;Prevalence;Preventive screening;Primary Care Physician;Primary Health Care;Randomized Controlled Trials;Records;Research;Sampling;Self-Direction;Standardization;System;Testing;Time;Translating;Translation Process;Translations;Vulnerable Populations;Work;arm;base;blood pressure regulation;breast exam;clinical outcome measures;clinical practice;design;disparity reduction;effectiveness evaluation;efficacious intervention;evidence base;formative assessment;health care quality;health care service;health care settings;health goals;hypertension control;hypertension treatment;implementation facilitation;implementation fidelity;implementation outcomes;implementation strategy;improved;medication compliance;motivational enhancement therapy;patient-level barriers;personalized approach;practice factors;primary care setting;primary outcome;racial and ethnic;response;routine care;routine practice;safety net;secondary outcome;skills;statistics;systematic review;treatment as usual",
+   "abstract_text": "ABSTRACT\nCOVID-19 has shed light on the significant and long-standing disparities in underserved communities. Current\ndata still show hospitalization rates among Black and Latinx individuals in the United States are 4 times greater\nthan that of Whites. The Rapid Acceleration of Diagnostics for Underserved Populations (RADx-UP) initiative\nsupports supplements to individual NIH awards to identify the determinants of COVID-19 testing among\nunderserved populations. For this proposal, we will leverage the infrastructure of a NIMHD-funded project in the\nFamily Health Centers (FHCs) of NYU Langone Health, a network of federally qualified health centers in NYC\nthat serves over 125,000 low-income and racially and ethnically diverse patients. In the current application, we\npropose a three-phase community-engaged study that will employ a multipronged, sequential mixed methods\ndesign (i.e., one methodology builds on the findings of the other) to gain a comprehensive understanding of the\nmultilevel factors that drive uptake of testing (and future vaccination) for COVID-19 of Black and Latinx patients\n(primary outcome), and participation in follow-up care offered by safety-net health systems. Phase 1 will consist\nof three steps: In step 1, we will leverage a well-characterized electronic health record database (~75% Black\nand Latinx) to examine differences in the individual-level factors associated with receiving a positive versus\nnegative PCR test for COVID-19 among 400 Black and Latinx patients who receive care at the FHCs. We will\nalso capture the community- and structural-level determinants of testing in this sample using validated self-report\nmeasures (e.g., NIH PhenX Tool Kit). In step 2, we will compare these multilevel factors across three patient\ngroups: Group 1- patients who tested positive and received follow-up care and/or services; Group 2- patients\nwho tested positive but did not receive follow-up care and/or services; and Group 3- patients who were eligible\nfor testing (based on symptoms and probable exposure), but did not get tested. In step 3, we will employ\npredictive modeling to correctly identify patients at high-risk (group 3). In Phase 2, we will combine data from\nthe previous phase with qualitative data (i.e., ethnographic observations, document analyses, and focus groups\nwith FHC staff, providers, administrators, patients and community members) to capture organizational (e.g., FHC\nstaff/provider attitudes and communications with patients, organizational culture) and ethical issues (e.g., data\ntransparency and privacy) to shed light on important social, cultural, and contextual factors associated with\nuptake of COVID-19 testing and potential vaccine. Finally, in Phase 3, in collaboration with our Community\nOversight Task Force, we will integrate Phase 1 and 2 data to refine, test, and disseminate tailored toolkits and\nethical governance guidelines (e.g. clinical trials transparency and data privacy). These toolkits will be designed\nto increase knowledge and awareness of COVID-19 testing and vaccine research and will be widely\ndisseminated among the FHCs, local community, NYULH, and the RADx-UP Coordination and Data Collection\nCenter.",
+   "project_title": "Bridging the evidence-to-practice gap: Evaluating practice facilitation as a strategy to accelerate translation of a systems-level adherence intervention into safety net practices",
+   "phr_text": "PROJECT NARRATIVE\nThis proposed three-phase mixed methods, community-engaged study is designed to identify multilevel factors\nthat may impede or facilitate COVID-19 testing and anticipated COVID-19 vaccine enrollment among the\nFederally Qualified Health Centers-treated patient population. This provides an unparalleled opportunity to enroll\nan ethnically diverse, underserved, high-risk patient population, and if successful, this study will provide the first\ncomprehensive information to shed light on important social, cultural, and contextual factors associated with\nCOVID-19 testing disparities and to help prepare for future testing and vaccine initiatives.",
+   "spending_categories_desc": "Behavioral and Social Science; Cardiovascular; Clinical Research; Clinical Trials and Supportive Activities; Comparative Effectiveness Research; Coronaviruses; Coronaviruses Disparities and At-Risk Populations; Dissemination and Implementation Research; Health Disparities; Health Services; Hypertension; Minority Health; Prevention",
+   "agency_code": "NIH",
+   "covid_response": [
+    "C4"
+   ],
+   "arra_funded": "N",
+   "budget_start": "2021-01-01T00:00:00",
+   "budget_end": "2023-05-31T00:00:00",
+   "cfda_code": "93.310",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 497942,
+   "indirect_cost_amt": 315106,
+   "project_detail_url": "https://reporter.nih.gov/project-details/10303004",
+   "date_added": "2021-01-02T19:33:46"
+  },
+  {
+   "appl_id": 8444852,
+   "subproject_id": null,
+   "fiscal_year": 2010,
+   "project_num": "7RC2HL101838-03",
+   "project_serial_num": "HL101838",
+   "organization": {
+    "org_name": "UNIVERSITY OF FLORIDA",
+    "city": null,
+    "country": null,
+    "org_city": "GAINESVILLE",
+    "org_country": "UNITED STATES",
+    "org_state": "FL",
+    "org_state_name": null,
+    "dept_type": "PUBLIC HEALTH & PREV MEDICINE",
+    "fips_country_code": null,
+    "org_duns": [
+     "969663814"
+    ],
+    "org_ueis": [
+     "NNFQH1JAPEP3"
+    ],
+    "primary_duns": "969663814",
+    "primary_uei": "NNFQH1JAPEP3",
+    "org_fips": "US",
+    "org_ipf_code": "513806",
+    "org_zipcode": "326115500",
+    "external_org_id": 513806
+   },
+   "award_type": "7",
+   "activity_code": "RC2",
+   "award_amount": 805869,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "7",
+    "activity_code": "RC2",
+    "ic_code": "HL",
+    "serial_num": "101838",
+    "support_year": "03",
+    "full_support_year": "03",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 1871253,
+     "first_name": "Linda",
+     "middle_name": "B.",
+     "last_name": "Cottler",
+     "is_contact_pi": true,
+     "full_name": "Linda B. Cottler",
+     "title": "PROFESSOR OF EPIDEMIOLOGY"
+    }
+   ],
+   "contact_pi_name": "COTTLER, LINDA B.",
+   "program_officers": [
+    {
+     "first_name": "NAKELA",
+     "middle_name": "L",
+     "last_name": "COOK",
+     "full_name": "NAKELA L COOK"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "HL",
+    "abbreviation": "NHLBI",
+    "name": "National Heart Lung and Blood Institute",
+    "admin_org_id": "12500068",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2010,
+     "code": "HL",
+     "name": "National Heart Lung and Blood Institute",
+     "abbreviation": "NHLBI",
+     "total_cost": 805869.0,
+     "direct_cost_ic": 686617.0,
+     "indirect_cost_ic": 119252.0
+    }
+   ],
+   "cong_dist": "FL-03",
+   "spending_categories": null,
+   "project_start_date": "2009-09-30T00:00:00",
+   "project_end_date": "2013-03-25T00:00:00",
+   "organization_type": {
+    "name": "SCHOOLS OF PUBLIC HEALTH",
+    "code": "10",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -82.349637,
+    "lat": 29.643443
+   },
+   "opportunity_number": "RFA-OD-09-004",
+   "full_study_section": {
+    "srg_code": "ZHL1",
+    "srg_flex": null,
+    "sra_designator_code": "CSR",
+    "sra_flex_code": "U",
+    "group_code": "O2",
+    "name": "ZHL1-CSR-U(O2)"
+   },
+   "award_notice_date": "2012-04-25T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "RC2HL101838",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": "  \nDESCRIPTION (provided by applicant): The ultimate goal of this 2 year NIH-NHLBI RC2 GO Grant (RFA-OD-09-004), \"Comparative Effectiveness\", is to develop a web system that facilitates Community Based Participatory Research (CBPR) to identify populations underrepresented in research. This effort builds on our 20 year community based model. Recently scaled up for the Washington University's Clinical & Translational Science Award (CTSA), our community based model called Health Street is a one-stop portal of entry for navigating underrepresented populations (URPs) to social, medical and psychiatric services, and to research opportunities. Health Street relies on Community Health Workers (CHWs) for engagement and is complementary to planned national self-guided participant registries. The deliverables will be the model, its protocols and manuals, and its concomitant web system that automates its work flow; they would be made available for replication nationally. The system will be an important component of the recruitment armamentarium to boost URPs in research. A web system to track and facilitate all functions of this approach, along with all decision logic, is mandatory to scale up the effort for better efficiency of field-based recruitment on a local and national level. Specific Aim 1. Refine the workflow for our novel Health Street model, to reduce disparities in research participation, and make it complementary to both local and national registry based efforts. Specific Aim 2. Design and develop a sophisticated web system that automates all of the work flow described above and allows CHWs to capture individual data from underrepresented populations, from portal of entry forward. It will also longitudinally track need for services, health priorities and concerns, risk factors, referrals made, Health Street services provided, and community recruitment, navigation, and enrollment rates. Specific Aim 3. Test the web system for relevance locally with the input of the CHWs, the Recruitment Enhancement and Bio-Informatics Cores, and the local Community Advisory Board; and nationally with the input of the Program Advisory Board and CTSA Community Engagement Cores. Specific Aim 4. Make the web system available nationally; begin a Sentinel Network for ongoing multi-site monitoring of increased enrollment of URPs into relevant research studies. Specific Aim 5. Plan a collaborative comparative effectiveness study of the web system vs current models to longitudinally monitor recruitment, navigation, enrollment and retention yields among URPs. This pioneering work can be accomplished in 2 years, and will have a substantial transformative and sustainable impact as it brings research from the bench and bedside to the \"curbside\".    \n  \nPUBLIC HEALTH RELEVANCE: The public health impact of the Health Street approach to recruit more underrepresented populations into research and link them to needed services is significant. When samples enrolled for research studies are comprised of diverse populations, there is greater generalizability and applicability of the findings to the larger population to which they relate. This increases the effectiveness and speedy approval of treatments and interventions that are tested in various research studies, thereby positively impacting public health outcomes. Thus, the use of a comprehensive web system, deployed by Community Health Workers, and based on the principles of community based participatory research, is pioneering.    \n    \n\n",
+   "project_title": "WEBSYSTEM TO INCREASE RESEARCH PARTICIPATION OF UNDERREPERESENTED POPULATIONS",
+   "phr_text": "\n The public health impact of the HealthStreet approach to recruit more underrepresented\npopulations into research and link them to needed services is significant. When samples enrolled for\nresearch studies are comprised of diverse populations, there is greater generalizability and applicability\nof the findings to the larger population to which they relate. This increases the effectiveness and speedy\napproval of treatments and interventions that are tested in various research studies, thereby positively\nimpacting public health outcomes. Thus, the use of a comprehensive websystem, deployed by\nCommunity Health Workers, and based on the principles of community based participatory research, is\npioneering.\n ",
+   "spending_categories_desc": null,
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "Y",
+   "budget_start": "2011-07-01T00:00:00",
+   "budget_end": "2013-03-25T00:00:00",
+   "cfda_code": "93.701",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 686617,
+   "indirect_cost_amt": 119252,
+   "project_detail_url": "https://reporter.nih.gov/project-details/8444852",
+   "date_added": "2012-04-29T06:51:30"
+  },
+  {
+   "appl_id": 11234869,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "1R01DC023053-01",
+   "project_serial_num": "DC023053",
+   "organization": {
+    "org_name": "UNIVERSITY OF TORONTO",
+    "city": null,
+    "country": null,
+    "org_city": "TORONTO",
+    "org_country": "CANADA",
+    "org_state": "ON",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "259999779"
+    ],
+    "org_ueis": [
+     "NBMSSFM3HP56"
+    ],
+    "primary_duns": "259999779",
+    "primary_uei": "NBMSSFM3HP56",
+    "org_fips": "CA",
+    "org_ipf_code": "8360001",
+    "org_zipcode": "M5S 1S8",
+    "external_org_id": 8360001
+   },
+   "award_type": "1",
+   "activity_code": "R01",
+   "award_amount": 469036,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "1",
+    "activity_code": "R01",
+    "ic_code": "DC",
+    "serial_num": "023053",
+    "support_year": "01",
+    "full_support_year": "01",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 11585618,
+     "first_name": "Karla",
+     "middle_name": "N",
+     "last_name": "Washington",
+     "is_contact_pi": true,
+     "full_name": "Karla N Washington",
+     "title": "ASSOCIATE PROFESSOR"
+    }
+   ],
+   "contact_pi_name": "WASHINGTON, KARLA N",
+   "program_officers": [
+    {
+     "first_name": "HOLLY",
+     "middle_name": "LYNN",
+     "last_name": "STORKEL",
+     "full_name": "HOLLY LYNN STORKEL"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "DC",
+    "abbreviation": "NIDCD",
+    "name": "National Institute on Deafness and Other Communication Disorders",
+    "admin_org_id": "12500019",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "DC",
+     "name": "National Institute on Deafness and Other Communication Disorders",
+     "abbreviation": "NIDCD",
+     "total_cost": 469036.0,
+     "direct_cost_ic": 434563.0,
+     "indirect_cost_ic": 34473.0
+    }
+   ],
+   "cong_dist": null,
+   "spending_categories": [
+    81,
+    89,
+    176,
+    5546,
+    5599,
+    679,
+    5544
+   ],
+   "project_start_date": "2025-09-01T00:00:00",
+   "project_end_date": "2030-07-31T00:00:00",
+   "organization_type": {
+    "name": "Unavailable",
+    "code": null,
+    "is_other": true
+   },
+   "geo_lat_lon": {
+    "lon": -79.4163,
+    "lat": 43.70011
+   },
+   "opportunity_number": "PA-20-185",
+   "full_study_section": {
+    "srg_code": "LCOM",
+    "srg_flex": null,
+    "sra_designator_code": null,
+    "sra_flex_code": null,
+    "group_code": null,
+    "name": "Language and Communication Study Section[LCOM]"
+   },
+   "award_notice_date": "2025-08-22T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01DC023053",
+   "terms": "<0-11 years old><21+ years old><5 year old><5 years of age><Achievement><Achievement Attainment><Acoustics><Address><Adult><Adult Human><African American><Afro American><Afroamerican><Age><American><Behavior><Categories><Child><Child Development><Child Development Disorders><Child Youth><Children (0-21)><Client><Clinical><Clinical Management><Code><Coding System><Communication Disorders><Communication impairment><Communicative Disorders><Communities><Data><Development><Developmental Disabilities><Diagnosis><Diagnostic><Disadvantaged><Disease><Disorder><Documentation><Evidence based intervention><Family suidae><Foundations><Gene Transcription><Genetic Transcription><Goals><Incidence><Infant and Child Development><Jamaican><Language><Learning><Linguistic><Linguistics><Literature><Maps><Measures><Methodology><Modeling><Multilingualism><NIDCD><National Institute on Deafness and Other Communication Disorders><Nursery Schools><Pattern><Phonetics><Pigs><Population><Probabilistic Models><Probability Models><Process><Production><Property><Protocol><Protocols documentation><Publications><RNA Expression><Research><Risk><Running><School-Age Population><Schools><Scientific Publication><Spanish/English><Speech><Speech Development><Speech Disorders><Speech Manifestations><Speech Sound><Standardization><Statistical Models><Suidae><Swine><System><Testing><Theoretic Models><Theoretical model><Transcription><Underrepresented Groups><Underrepresented Populations><Underserved Population><Variant><Variation><Vocabulary><Vocabulary Words><Washington><adulthood><age 5 years><aged><ages><base><bases><bilingual><bilingualism><career><computational framework><computer framework><cost><developmental><diagnosis standard><diagnostic criteria><five year old><five years of age><kids><knowledge base><learning algorithm><lexical><multilingual><phonology><porcine><pre-k><pre-kindergarten><preschool><school age><social stigma><sound><statistical linear mixed models><statistical linear models><stigma><suid><theories><under representation of groups><under represented groups><under represented people><under represented populations><under served group><under served individual><under served people><under served population><underrepresentation of groups><underrepresented people><underserved group><underserved individual><underserved people><youngster>",
+   "pref_terms": "5 year old;Achievement;Acoustics;Address;Adult;African American;Age;American;Behavior;Categories;Child;Child Development;Client;Clinical;Clinical Management;Code;Communication impairment;Communities;Data;Development;Developmental Disabilities;Diagnosis;Diagnostic;Disadvantaged;Disease;Documentation;Evidence based intervention;Family suidae;Foundations;Genetic Transcription;Goals;Incidence;Jamaican;Language;Learning;Linguistics;Literature;Maps;Measures;Methodology;Modeling;Multilingualism;National Institute on Deafness and Other Communication Disorders;Nursery Schools;Pattern;Phonetics;Population;Process;Production;Property;Protocols documentation;Publications;Research;Risk;Running;School-Age Population;Schools;Spanish/English;Speech;Speech Development;Speech Disorders;Speech Sound;Standardization;Statistical Models;System;Testing;Theoretical model;Underrepresented Populations;Underserved Population;Variant;Vocabulary;Washington;aged;base;bilingualism;career;computer framework;cost;diagnosis standard;diagnostic criteria;knowledge base;learning algorithm;lexical;phonology;social stigma;sound;theories",
+   "abstract_text": "Project Summary/Abstract\nSpeech sound disorder (SSD) is a high-incidence developmental disability that can result in long-term negative\nimpacts on academic and career achievement. Although the impacts of SSD can be mitigated through\nevidence-based interventions, the challenge of diagnosing and managing SSD is greatly exacerbated when\nworking with clients from linguistically diverse backgrounds. A clinician evaluating a child who uses more than\none language daily must avoid over-diagnosing disorder in cases more accurately characterized as differences\nwhile also guarding against under-diagnosis of SSD in this population. This need to reduce misdiagnosis of\nSSD is particularly pressing in understudied contexts, namely children who are bidialectal or bilingual in two\nclosely related languages. In these cases, production variation is ubiquitous yet might be flagged as being\natypical in the diagnostic process. Languages interact differently depending on their typological properties, and\nthe body of existing literature focused on a small set of relatively well-documented cases (e.g., Spanish-\nEnglish) runs the risk of arriving at an overly homogenous model of speech development and disorders. By\nstudying two groups of children – those acquiring African American English and Standardized American\nEnglish (AAE/SAE) and those acquiring Jamaican Creole and Jamaican English (JC/JE) – this proposal not\nonly benefits underserved populations but will also broaden the theoretical base for understanding speech\ndevelopment and disorders in linguistically diverse contexts. Although our team has made recent strides\ntoward understanding trade-offs between accuracy and variability in a bilingual context, additional elaboration\nof the theoretical framing is needed to inform the diagnostic significance of production variation when\nlanguages are linguistically related. We propose to model the relationship between accuracy and variability in\nproduction using the Articulatory Map ([A-map]; McAllister Byun et al., 2016) and Gradual Learning Algorithm\n([GLA] Boersma and Hayes, 2001). Application of the A-map and GLA are needed to account for typological\npatterns of phonetic and phonological learning across language contexts both theoretically (A-map) and\ncomputationally (GLA). The long-term goal of this research is to arrive at a coherent understanding of\nproduction variation to reduce misdiagnosis of SSD in underrepresented populations. Using transcription-\nbased measures of accuracy and acoustic (spectral)-based measures of variability, we will test the predictions\nof the A-map and GLA in preschool-aged bidialectal AAE/SAE and bilingual JC/JE speakers. Statistical\nmodeling of the relative contributions of acoustic-based measures of variability and transcription-based\nmeasures of accuracy to a gold standard diagnosis will be used to identify the optimal diagnostic criteria for\ndisorder status. The data we generate will support a methodological template for protocols that reduce\nmisdiagnosis of SSD in bidialectal and bilingual children to meet the NIDCD 2023-2027 Strategic Objective\nTheme 4: Goal 3 to advance understandings about communication disorders in underrepresented populations.",
+   "project_title": "Characterizing accuracy and variability in speech sound productions across bidialectal and bilingual preschoolers",
+   "phr_text": "Project Narrative\nBidialectal and bilingual children are routinely misdiagnosed for speech sound disorder, with under-diagnosis\nhaving lifelong negative impacts on academic and career achievement and over-diagnosis putting the child at\nrisk for social stigma while posing an unnecessary cost to the school system. By targeting under-studied\nlanguage combinations (African American English-Standardized American English bidialectals; Jamaican\nCreole-Jamaican English bilinguals), this research will broaden the theoretical and empirical knowledge base\nthat guides clinical management of speech development and disorders in bidialectal and bilingual children.\nUsing a combination of transcription-based measures of accuracy and spectral acoustic-based measures of\nvariability, we will compare typical development across bidialectal and bilingual speakers and identify the\nfactors that most accurately separate typical and disordered speech development in these understudied\npopulations.",
+   "spending_categories_desc": "Basic Behavioral and Social Science; Behavioral and Social Science; Clinical Research; Health Disparities Research; Health Disparities and Racial or Ethnic Minority Health Research; Pediatric; Racial and Ethnic Minority Health Research",
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-09-01T00:00:00",
+   "budget_end": "2026-07-31T00:00:00",
+   "cfda_code": "93.173",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 434563,
+   "indirect_cost_amt": 34473,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11234869",
+   "date_added": "2025-09-07T22:56:09"
+  },
+  {
+   "appl_id": 11253759,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "1R01AI192148-01A1",
+   "project_serial_num": "AI192148",
+   "organization": {
+    "org_name": "FRED HUTCHINSON CANCER CENTER",
+    "city": null,
+    "country": null,
+    "org_city": "SEATTLE",
+    "org_country": "UNITED STATES",
+    "org_state": "WA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "806433145"
+    ],
+    "org_ueis": [
+     "TJFZLPP6NYL6"
+    ],
+    "primary_duns": "806433145",
+    "primary_uei": "TJFZLPP6NYL6",
+    "org_fips": "US",
+    "org_ipf_code": "10068583",
+    "org_zipcode": "981094433",
+    "external_org_id": 10068583
+   },
+   "award_type": "1",
+   "activity_code": "R01",
+   "award_amount": 3554273,
+   "is_active": true,
+   "project_num_split": {
+    "appl_type_code": "1",
+    "activity_code": "R01",
+    "ic_code": "AI",
+    "serial_num": "192148",
+    "support_year": "01",
+    "full_support_year": "01A1",
+    "suffix_code": "A1"
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 8773785,
+     "first_name": "Yunda",
+     "middle_name": "",
+     "last_name": "Huang",
+     "is_contact_pi": true,
+     "full_name": "Yunda  Huang",
+     "title": ""
+    },
+    {
+     "profile_id": 10437970,
+     "first_name": "Maria",
+     "middle_name": "P",
+     "last_name": "Lemos",
+     "is_contact_pi": false,
+     "full_name": "Maria P Lemos",
+     "title": ""
+    }
+   ],
+   "contact_pi_name": "HUANG, YUNDA ",
+   "program_officers": [
+    {
+     "first_name": "AMY",
+     "middle_name": "COLLEEN",
+     "last_name": "PALIN",
+     "full_name": "AMY COLLEEN PALIN"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "AI",
+    "abbreviation": "NIAID",
+    "name": "National Institute of Allergy and Infectious Diseases",
+    "admin_org_id": "12500003",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "AI",
+     "name": "National Institute of Allergy and Infectious Diseases",
+     "abbreviation": "NIAID",
+     "total_cost": 3554273.0,
+     "direct_cost_ic": 2127217.0,
+     "indirect_cost_ic": 1427056.0
+    }
+   ],
+   "cong_dist": "WA-07",
+   "spending_categories": [
+    108,
+    176,
+    180,
+    232,
+    284,
+    307,
+    309,
+    331,
+    338,
+    400,
+    701,
+    856,
+    877,
+    878,
+    5815
+   ],
+   "project_start_date": "2025-09-12T00:00:00",
+   "project_end_date": "2029-08-31T00:00:00",
+   "organization_type": {
+    "name": "Other Domestic Non-Profits",
+    "code": "NP",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -122.329606,
+    "lat": 47.626482
+   },
+   "opportunity_number": "PA-20-185",
+   "full_study_section": {
+    "srg_code": "HIVD",
+    "srg_flex": null,
+    "sra_designator_code": null,
+    "sra_flex_code": null,
+    "group_code": null,
+    "name": "HIV Immunopathogenesis and Vaccine Development Study Section[HIVD]"
+   },
+   "award_notice_date": "2025-09-12T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01AI192148",
+   "terms": "<7S Gamma Globulin><Ab response><Accounting><Address><Adherence><Affect><Antibodies><Antibody Formation><Antibody Production><Area><Biological><Biological Markers><Biopsy><Blood><Blood Reticuloendothelial System><Blood Serum><Body Tissues><Clinical Treatment Moab><Clinical Trials><Complement><Complement Proteins><Data><Disease><Disorder><Dose><Drug Kinetics><ELISA><Enzyme-Linked Immunosorbent Assay><Epithelium><Evaluation><Fc Receptor><Female><Fluorescence Light Microscopy><Fluorescence Microscopy><Future><Goals><Gut Epithelial Permeability><Gut Hyperpermeability><Gut permeability><HBV Vaccine><HBV disease><HIV prevention trial><HIV vaccine><HIV-1><HIV-1 vaccine><HIV-I><HIV/AIDS Vaccines><HIV1><HIV1 vaccine><HepB><Hepatitis B><Hepatitis B Vaccines><Hepatitis B virus vaccine><Human Immunodeficiency Virus Type 1><Human immunodeficiency virus 1><IgG><Immune><Immunes><Immunoglobulin G><Infection prevention><Intestinal><Intestinal Epithelial Permeability><Intestinal Hyperpermeability><Intestinal permeability><Intestines><Investigation><Kinetics><MSM><Man who have sex with Man><Measures><Mediating><Modeling><Monoclonal Antibodies><Mucosa><Mucosal Tissue><Mucous Membrane><Oral><Participant><Passive Immunization><Persons><Pharmaceutical Agent><Pharmaceuticals><Pharmacokinetics><Pharmacologic Substance><Pharmacological Substance><Phase><Play><Population><PrEP><Prevent infection><Preventative strategy><Prevention><Prevention strategy><Prevention trial><Preventive strategy><Probabilistic Models><Probability Models><Proteomics><Rectum><Regimen><Reporting><Research><Research Specimen><Schedule><Serum><Specimen><Statistical Methods><Statistical Models><Time><Tissues><Transmission><Treatment Efficacy><Uncertainty><Vaccination acquired immunity><Vaccination induced immunity><Vaccines><Viral Hepatitis B><Woman><Work><antibody biosynthesis><antibody immunotherapy><antibody receptor><bio-markers><biologic><biologic marker><biomarker><biomarker identification><bowel><cis-gender><cisgender><cohort><complementation><doubt><early phase trial><efficacy testing><efficacy trial><enzyme linked immunoassay><focus on male><focused on men><girls><global health><hep B><hepatitis B virus disease><human immunodeficiency virus vaccine><identification of biomarkers><identification of new biomarkers><immunoglobulin biosynthesis><insight><intervention efficacy><mAbs><male><male focused><male specific><male targeted><marker identification><men><men having sex with men><men who have sex with men><men who have sex with other men><monoclonal Abs><mucosal site><neutralizing mAb><neutralizing monoclonal antibodies><next generation><passive vaccination><pathogen><person centered><pharmaceutical><pharmacokinetic model><polyclonal antibody><pre-exposure prophylaxis><predictive biological marker><predictive biomarkers><predictive marker><predictive molecular biomarker><prevent><preventing><sex><statistic methods><statistical linear mixed models><statistical linear models><study population><targeted to men><therapeutic efficacy><therapy efficacy><tool><trans-women><transgender women><transmission process><transwoman><transwomen><vaccination study><vaccination trial><vaccine acquired immunity><vaccine against hepatitis B><vaccine antibodies><vaccine associated immunity><vaccine efficacy><vaccine induced antibodies><vaccine study><vaccine trial><vaccine-induced antibodies><vaccine-induced immunity><vaccine-induced protection><♀><♂>",
+   "pref_terms": "Accounting;Address;Adherence;Affect;Antibodies;Antibody Formation;Area;Biological;Biological Markers;Biopsy;Blood;Clinical Trials;Complement;Data;Disease;Dose;Drug Kinetics;Enzyme-Linked Immunosorbent Assay;Epithelium;Evaluation;Fc Receptor;Female;Fluorescence Microscopy;Future;Goals;HIV prevention trial;HIV vaccine;HIV-1;HIV-1 vaccine;Hepatitis B;Hepatitis B Vaccines;Immune;Immunoglobulin G;Infection prevention;Intestinal permeability;Intestines;Investigation;Kinetics;Measures;Mediating;Modeling;Monoclonal Antibodies;Mucous Membrane;Oral;Participant;Passive Immunization;Persons;Pharmacologic Substance;Phase;Play;Population;Prevention;Prevention strategy;Prevention trial;Proteomics;Rectum;Regimen;Reporting;Research;Schedule;Serum;Specimen;Statistical Methods;Statistical Models;Time;Tissues;Treatment Efficacy;Uncertainty;Vaccines;Woman;Work;antibody immunotherapy;biomarker identification;cisgender;cohort;early phase trial;efficacy testing;efficacy trial;girls;global health;insight;male;male specific;men;men who have sex with men;mucosal site;neutralizing monoclonal antibodies;next generation;pathogen;person centered;pharmacokinetic model;polyclonal antibody;pre-exposure prophylaxis;predictive marker;prevent;sex;study population;tool;transgender women;transmission process;vaccine efficacy;vaccine trial;vaccine-induced antibodies;vaccine-induced immunity",
+   "abstract_text": "Abstract\n In this proposal, we will determine the influence of oral pre-exposure prophylaxis (PrEP)\non the pharmacokinetics (PK) of passively administered monoclonal antibodies (mAbs) and\nvaccine-induced polyclonal antibodies (Abs) in females vulnerable to HIV-1, using data and\nspecimens from past HIV-1 prevention trials. This research will have a significant impact on global\nhealth because oral PrEP is currently the most accessible pharmaceutical HIV-1 prevention option,\nand Abs are critical for immune protection and therapeutic efficacy.\n Aim 1 focuses on determining whether oral PrEP affects the PK of VRC01, a broadly\nneutralizing HIV-1 mAb, in female participants from the recently completed Antibody Mediated\nPrevention (AMP) study. We will identify biomarkers of PrEP use that correlate with increased\nmAb clearance, with a specific emphasis on assessing PrEP’s effects on two intestinal Ab\nclearance mechanisms: disruption of the epithelial barrier and increased Fc receptor (FcR)\nmediated Ab degradation. Aim 2 extends this investigation by examining the impact of oral PrEP\non the magnitude and durability of HIV-1 vaccine-induced antibodies (Abs) in female participants\nfrom two completed HIV-1 vaccine efficacy trials. To extend beyond HIV-1, we will also assess\ndurability of Hepatitis B (HB) vaccine-induced Abs in female and male participants from AMP and\nthe vaccine trials. Consistent with what was observed for VRC01 PK in males from the AMP trial,\nour preliminary data in two pre-efficacy vaccine trials suggest an association between PrEP use\nand faster decay of HIV-1 vaccine-induced Abs. We plan to identify PrEP biomarkers associated\nwith vaccine Ab kinetics. In biopsy donors, we will also determine the association between HB\nvaccine Ab kinetics and identified biomarkers with the two potential intestinal mechanisms of Ab\nclearance. Characterizing any PrEP effects on Abs is crucial for people who take oral PrEP and\nrely on mAb immunotherapies and/or Ab-inducing vaccines for protection against pathogens.\n Aim 3 focuses on developing a pharmacokinetic and statistical modeling framework to\nrank and select mAb regimens for efficacy testing. This framework will account for PrEP use and\nmAb PK biomarkers identified in Aim 1. It will also incorporate mAb levels in serum and rectal\ntissue from both males and females, recognizing the importance of tissue levels in predicting\nprotection against HIV-1 and intestinal PrEP effects on mAb PK. By building and validating\nadvanced PK models and statistical methods for bridging differences in study populations, we\nseek to enhance the accuracy of selecting the most promising mAb regimens for future clinical\ntrials, ultimately contributing to more effective HIV-1 prevention strategies.",
+   "project_title": "Assessing the effects of oral pre-exposure prophylaxis on pharmacokinetics of monoclonal and vaccine-induced antibodies among women vulnerable to HIV-1",
+   "phr_text": "Project Narrative\nAntibodies play a key role in treating diseases and preventing infections. Our previous study in\nmen showed that oral PrEP, an affordable option to prevent HIV-1, affects how antibody levels\ndecay over time. In this project, we will study whether this effect also occurs in women\nvulnerable to HIV-1, and determine PrEP’s effects on intestinal antibody decay. We will develop\na model to select the most effective antibodies for prevention, considering their presence in\nblood and the areas where HIV-1 exposure and expansion occurs.",
+   "spending_categories_desc": "Biotechnology; Clinical Research; Clinical Trials and Supportive Activities; Digestive Diseases; HIV/AIDS; Hepatitis; Hepatitis - B; Immunization; Infectious Diseases; Liver Disease; Prevention; Translational Research; Vaccine Related; Vaccine Related - AIDS; Women's Health Research",
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-09-12T00:00:00",
+   "budget_end": "2029-08-31T00:00:00",
+   "cfda_code": "93.855",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 2127217,
+   "indirect_cost_amt": 1427056,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11253759",
+   "date_added": "2025-09-20T17:03:49"
+  },
+  {
+   "appl_id": 11361757,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "5R44CK000621-03",
+   "project_serial_num": "CK000621",
+   "organization": {
+    "org_name": "IASIS MOLECULAR SCIENCES, INC",
+    "city": null,
+    "country": null,
+    "org_city": "SPOKANE",
+    "org_country": "UNITED STATES",
+    "org_state": "WA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "783939536"
+    ],
+    "org_ueis": [
+     "P8KSLPQ236L5"
+    ],
+    "primary_duns": "783939536",
+    "primary_uei": "P8KSLPQ236L5",
+    "org_fips": "US",
+    "org_ipf_code": "10013481",
+    "org_zipcode": "992232106",
+    "external_org_id": 10013481
+   },
+   "award_type": "5",
+   "activity_code": "R44",
+   "award_amount": 578861,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "5",
+    "activity_code": "R44",
+    "ic_code": "CK",
+    "serial_num": "000621",
+    "support_year": "03",
+    "full_support_year": "03",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 6809396,
+     "first_name": "DAVID",
+     "middle_name": "JOHN",
+     "last_name": "VACHON",
+     "is_contact_pi": true,
+     "full_name": "DAVID JOHN VACHON",
+     "title": "FOUNDER & CEO"
+    }
+   ],
+   "contact_pi_name": "VACHON, DAVID JOHN",
+   "program_officers": [],
+   "agency_ic_admin": {
+    "code": "CK",
+    "abbreviation": "NCEZID",
+    "name": "National Center for Emerging and Zoonotic Infectious Diseases",
+    "admin_org_id": "12501084",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "CK",
+     "name": "National Center for Emerging and Zoonotic Infectious Diseases",
+     "abbreviation": "NCEZID",
+     "total_cost": 578861.0,
+     "direct_cost_ic": null,
+     "indirect_cost_ic": null
+    }
+   ],
+   "cong_dist": "WA-05",
+   "spending_categories": null,
+   "project_start_date": "2024-09-30T00:00:00",
+   "project_end_date": "2026-09-29T00:00:00",
+   "organization_type": {
+    "name": "Domestic For-Profits",
+    "code": "FP",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -117.407609,
+    "lat": 47.658793
+   },
+   "opportunity_number": "PA-23-230",
+   "full_study_section": {
+    "srg_code": "ZRG1",
+    "srg_flex": null,
+    "sra_designator_code": "DCAI",
+    "sra_flex_code": "B",
+    "group_code": "13",
+    "name": "Special Emphasis Panel[ZRG1-DCAI-B(13)B]"
+   },
+   "award_notice_date": "2025-09-12T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "SB",
+   "core_project_num": "R44CK000621",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": "Project Summary Abstract\n Health care-associated infections (HAIs) are all too common in today’s hospital\nenvironment. More than 1.7 million cases of transmission occur annually and often the\nimplicated infectious organisms are transferred from inanimate objects capable of\nsustaining their viability. The disinfection methods that are used routinely in hospitals\ntoday are imperfect and the only available and accepted methods for minimizing patient-\nto-patient transmission include: 1. improved cleaning and disinfection of room surfaces,\n2. implementation of 'no touch' methods for terminal room disinfection, e.g., ultraviolet\nlight or hydrogen peroxide vapor, and 3. use of 'self-disinfecting' surfaces to reduce the\nbioburden on hospital surfaces.\n Current 'self-disinfecting' clinical surfaces with the antibacterial label are limited to\npainted surfaces incorporating quaternary ammonium compounds (QACs, Sherwin\nWilliams Paint Shield®) and more recently a PPG paint (Copper Armor®) comprising\nceramic encapsulated copper oxide Guardiant®, Corning).\n In the proposed effort, a novel organometallic copper additive is scaled and its\nmanufacturing validated and liquid and powder paint formulations created, validated, and\ntested for effectiveness against bacteria, viruses, and fungi. These data will be used to\nsupport an EPA filing for products incorporating the novel additive. The major elements\nof the specific aims of the proposed research involves: 1. The scaling and manufacturing\n(synthesis) validation and characterization of ion exchange biocides, 2. Subsequent\nformulation into two distinct coating forms, and 3. The evaluation of the time-dependent\nbiological performance of the modified composites under ISO 17025 and GLPs so as to\nsupport an application to the EPA.",
+   "project_title": "Clinical Ecosystem Surfaces for Improved Disinfection Outcomes and the Prevention of HAI Transmission",
+   "phr_text": "Project Narrative\n In the United States, approximately 1.7 million health care-associated\ninfections (HAIs) occur in hospitals annually. Many of the implicated organisms are\ntransmitted to the patient by a health care worker via an intermediary in the hospital\nenvironment, i.e., a fomite. Fomites are nonliving objects, substances, and\nsurfaces capable of carrying infectious organisms. With costs to treat these\ninfections requiring more than billions of dollars annually, improved methods of\npreventing HAIs are needed.\n The proposed project addresses this complex problem with the development\nand testing of two first-in-class solutions that will address bacterial, fungal and viral\nthreats within the clinical and other environments.",
+   "spending_categories_desc": null,
+   "agency_code": "ALLCDC",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-09-30T00:00:00",
+   "budget_end": "2026-09-29T00:00:00",
+   "cfda_code": "93.262",
+   "funding_mechanism": "SBIR/STTR",
+   "direct_cost_amt": null,
+   "indirect_cost_amt": null,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11361757",
+   "date_added": "2025-10-04T17:03:50"
+  },
+  {
+   "appl_id": 11076998,
+   "subproject_id": null,
+   "fiscal_year": 2023,
+   "project_num": "7IK2BX005785-03",
+   "project_serial_num": "BX005785",
+   "organization": {
+    "org_name": "LOUIS STOKES CLEVELAND VA MEDICAL CENTER",
+    "city": null,
+    "country": null,
+    "org_city": "CLEVELAND",
+    "org_country": "UNITED STATES",
+    "org_state": "OH",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "093016124"
+    ],
+    "org_ueis": [
+     "KHM6GRQMTKL1"
+    ],
+    "primary_duns": "093016124",
+    "primary_uei": "KHM6GRQMTKL1",
+    "org_fips": "US",
+    "org_ipf_code": "481118",
+    "org_zipcode": "441413204",
+    "external_org_id": 481118
+   },
+   "award_type": "7",
+   "activity_code": "IK2",
+   "award_amount": null,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "7",
+    "activity_code": "IK2",
+    "ic_code": "BX",
+    "serial_num": "005785",
+    "support_year": "03",
+    "full_support_year": "03",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 16196746,
+     "first_name": "Cody",
+     "middle_name": "Andrew",
+     "last_name": "Rutledge",
+     "is_contact_pi": true,
+     "full_name": "Cody Andrew Rutledge",
+     "title": ""
+    }
+   ],
+   "contact_pi_name": "RUTLEDGE, CODY ANDREW",
+   "program_officers": [],
+   "agency_ic_admin": {
+    "code": "VA",
+    "abbreviation": "VA",
+    "name": "Veterans Affairs",
+    "admin_org_id": "12500964",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": null,
+   "cong_dist": "OH-07",
+   "spending_categories": null,
+   "project_start_date": "2022-07-01T00:00:00",
+   "project_end_date": "2027-06-30T00:00:00",
+   "organization_type": {
+    "name": "Independent Hospitals",
+    "code": "30",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -81.607134,
+    "lat": 41.505132
+   },
+   "opportunity_number": "BX-21-023",
+   "full_study_section": {
+    "srg_code": "ZRD1",
+    "srg_flex": null,
+    "sra_designator_code": "CARA",
+    "sra_flex_code": "R",
+    "group_code": "01",
+    "name": "ZRD1-CARA-R(01)1"
+   },
+   "award_notice_date": "2024-04-19T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "OT",
+   "core_project_num": "IK2BX005785",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": "ABSTRACT\nSudden cardiac arrest is highly prevalent among hospitalized veterans and results in overwhelming mortality.\nUnfortunately, there are no pharmacologic therapies that have been shown to reliably increase survival after\nsudden cardiac arrest. Survivors of sudden cardiac arrest typically have systemic organ damage requiring\nintensive care in the hospital. The majority of these patients have reduced cardiac function and one quarter of\nthese patients die from cardiogenic shock. Cardiac inflammation is thought to contribute to this dysfunction and\nis likely driven by damage associated molecular patterns (DAMPs). One prominent DAMP is mitochondrial\nDNA (mtDNA). Preliminary work in our lab has shown that strategies aimed at preserving mtDNA integrity,\nincluding overexpression of mitochondrial transcription factor A (TFAM), are protective to cardiac function in a\nmouse model of sudden cardiac arrest. TFAM is a nuclear gene that regulates mtDNA expression, packaging,\nand copy number and is known to be protective in a number of heart disease models.\nMy overarching hypothesis is that ischemia-reperfusion injury from cardiac arrest results in mtDNA release,\nwhich triggers an inflammatory response in the heart, and that this response is dependent upon cGAS/STING\nsignaling. To explore this hypothesis, I will pursue three specific aims. In Aim 1, I will explore the mechanism\nby which mtDNA is released using microscopy in vitro and confirm these changes in an in vivo model of\nsudden cardiac arrest. In Aim 2, I will use transgenic mouse models to manipulate TFAM to affect mtDNA\nrelease and also knock-out STING signaling to explore the relationship between mtDNA release and\ninflammation after sudden cardiac arrest. In Aim 3, I will characterize the inflammatory response in the heart\nafter sudden cardiac arrest and manipulate cGAS/STING signaling to evaluate cGAS/STING mediated\ninflammatory changes.\nTogether, these aims will evaluate the role of mtDNA release following sudden cardiac arrest and its role in\ninnate immune signaling, which may guide future therapies for human studies. This work will support my goal\nof transitioning into an independent research career as a physician-scientist studying mitochondrial changes in\ncardiovascular disease. This grant will support continued research and career development at both the\nVeterans Administration Hospital in Pittsburgh and the University of Pittsburgh, including coursework, career\nmentorship, and scientific training aimed at transitioning to independence as a physician scientist in the\nVeterans Administration system.",
+   "project_title": "The Role of Mitochondrial DNA in Innate Immune Activation after Sudden CardiacArrest",
+   "phr_text": "PROJECT NARRATIVE\nSudden cardiac arrest is highly prevalent in the United States, affecting over 380,000 Americans every year\nand occurring in 4 out of every 1000 Veterans Administration hospitalizations. The mortality for sudden cardiac\narrest exceeds 70%. Despite the high prevalence and mortality, there are no pharmacologic therapies that\nhave been shown to improve survival outcomes in these patients. This project aims to better understand the\nmolecular mechanisms of sudden cardiac arrest by evaluating mitochondrial DNA changes and related cardiac\ninflammation in mouse and cellular models, which may lead to novel targets to improve outcomes following\nsudden cardiac arrest.",
+   "spending_categories_desc": null,
+   "agency_code": "VA",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2023-10-01T00:00:00",
+   "budget_end": "2024-06-30T00:00:00",
+   "cfda_code": "64.999",
+   "funding_mechanism": "Other",
+   "direct_cost_amt": null,
+   "indirect_cost_amt": null,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11076998",
+   "date_added": "2024-04-20T16:17:51"
+  },
+  {
+   "appl_id": 100336,
+   "subproject_id": null,
+   "fiscal_year": 2023,
+   "project_num": "2025",
+   "project_serial_num": null,
+   "organization": {
+    "org_name": "VETERANS HEALTH ADMINISTRATION",
+    "city": null,
+    "country": null,
+    "org_city": "ANN ARBOR",
+    "org_country": "UNITED STATES",
+    "org_state": "MI",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": null,
+    "org_ueis": null,
+    "primary_duns": null,
+    "primary_uei": null,
+    "org_fips": null,
+    "org_ipf_code": null,
+    "org_zipcode": null,
+    "external_org_id": null
+   },
+   "award_type": null,
+   "activity_code": null,
+   "award_amount": null,
+   "is_active": false,
+   "project_num_split": null,
+   "principal_investigators": [
+    {
+     "profile_id": null,
+     "first_name": "SCOTT",
+     "middle_name": "",
+     "last_name": "HUMMEL",
+     "is_contact_pi": true,
+     "full_name": "SCOTT  HUMMEL",
+     "title": ""
+    }
+   ],
+   "contact_pi_name": "HUMMEL, SCOTT",
+   "program_officers": [],
+   "agency_ic_admin": {
+    "code": "VA",
+    "abbreviation": "VA",
+    "name": "Veterans Affairs",
+    "admin_org_id": "12500964",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": null,
+   "cong_dist": "MI-06",
+   "spending_categories": null,
+   "project_start_date": "2026-07-15T00:00:00",
+   "project_end_date": "2030-10-31T00:00:00",
+   "organization_type": {
+    "name": "Independent Hospitals",
+    "code": null,
+    "is_other": false
+   },
+   "geo_lat_lon": null,
+   "opportunity_number": null,
+   "full_study_section": {
+    "srg_code": null,
+    "srg_flex": null,
+    "sra_designator_code": null,
+    "sra_flex_code": null,
+    "group_code": null,
+    "name": null
+   },
+   "award_notice_date": "2022-07-15T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "IM",
+   "core_project_num": "025",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": "The primary objective of this single-blind, multi-center, randomized clinical trial is to study the effects of home-delivered, low sodium, nutritionally robust meals and augmented dietary counseling on readmission burden and health-related quality of life in Veterans with incipient or chronic heart failure (HF). The primary outcome is a hierarchical composite of Days Alive and Out of the Hospital (DAOH) and the change in Kansas City Cardiomyopathy Questionnaire Clinical Summary (KCCQ-CS) between hospital discharge and 6 weeks post-discharge. The primary hypothesis is that, within the 6 weeks immediately following hospital discharge, Veterans receiving nutritional support will have a larger number of days alive and out of hospital, and greater improvement in health-related quality of life, compared to Veterans receiving the study-defined standard of care. The study seeks to enroll 1,400 Veterans aged ���60 years who have been hospitalized (���24 hours) for new HF or worsening chronic HF from 35 medical centers.",
+   "project_title": "CSP #2025, Geriatric OUt-of-hospital Randomized MEal Trial in heart failure: Veterans Affairs (GOURMET-VA)",
+   "phr_text": "Recently hospitalized Veterans with HF are at high risk of death, hospital readmission, and persistently low quality of life. Intensive efforts by the VA Healthcare system and the private sector to improve care coordination and optimize medical care for HF have only modestly improved clinical outcomes. Malnutrition and poor dietary habits are important but often overlooked risk factors in this vulnerable population. The GOURMET-VA trial will study the effects of providing robust nutritional support to recently hospitalized Veterans with HF. This simple yet novel strategy has strong potential for broad, cost-effective implementation and could revolutionize the care provided to patients with HF during the high-risk period following hospital discharge.",
+   "spending_categories_desc": null,
+   "agency_code": "VA",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2026-07-15T00:00:00",
+   "budget_end": "2030-10-31T00:00:00",
+   "cfda_code": "64.054",
+   "funding_mechanism": "Intramural Research",
+   "direct_cost_amt": null,
+   "indirect_cost_amt": null,
+   "project_detail_url": "https://reporter.nih.gov/project-details/100336",
+   "date_added": "2026-08-22T17:04:05"
+  },
+  {
+   "appl_id": 11624218,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "6R01CE003579-03M002",
+   "project_serial_num": "CE003579",
+   "organization": {
+    "org_name": "UNIV OF NORTH CAROLINA CHAPEL HILL",
+    "city": null,
+    "country": null,
+    "org_city": "CHAPEL HILL",
+    "org_country": "UNITED STATES",
+    "org_state": "NC",
+    "org_state_name": null,
+    "dept_type": "PUBLIC HEALTH & PREV MEDICINE",
+    "fips_country_code": null,
+    "org_duns": [
+     "608195277"
+    ],
+    "org_ueis": [
+     "D3LHU66KBLD5"
+    ],
+    "primary_duns": "608195277",
+    "primary_uei": "D3LHU66KBLD5",
+    "org_fips": "US",
+    "org_ipf_code": "578206",
+    "org_zipcode": "275995023",
+    "external_org_id": 578206
+   },
+   "award_type": "6",
+   "activity_code": "R01",
+   "award_amount": 400000,
+   "is_active": true,
+   "project_num_split": {
+    "appl_type_code": "6",
+    "activity_code": "R01",
+    "ic_code": "CE",
+    "serial_num": "003579",
+    "support_year": "03",
+    "full_support_year": "03M002",
+    "suffix_code": "M002"
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 14222926,
+     "first_name": "Shabbar",
+     "middle_name": "I",
+     "last_name": "Ranapurwala",
+     "is_contact_pi": true,
+     "full_name": "Shabbar I Ranapurwala",
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "profile_id": 14264892,
+     "first_name": "N. Jeanie",
+     "middle_name": "",
+     "last_name": "Santaularia Gomez",
+     "is_contact_pi": false,
+     "full_name": "N. Jeanie  Santaularia Gomez",
+     "title": ""
+    }
+   ],
+   "contact_pi_name": "RANAPURWALA, SHABBAR I",
+   "program_officers": [],
+   "agency_ic_admin": {
+    "code": "CE",
+    "abbreviation": "NCIPC",
+    "name": "National Center for Injury Prevention and Control",
+    "admin_org_id": "12501083",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "CE",
+     "name": "National Center for Injury Prevention and Control",
+     "abbreviation": "NCIPC",
+     "total_cost": 400000.0,
+     "direct_cost_ic": null,
+     "indirect_cost_ic": null
+    }
+   ],
+   "cong_dist": "NC-04",
+   "spending_categories": null,
+   "project_start_date": "2023-09-30T00:00:00",
+   "project_end_date": "2027-09-29T00:00:00",
+   "organization_type": {
+    "name": "SCHOOLS OF PUBLIC HEALTH",
+    "code": "10",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -79.057377,
+    "lat": 35.9316
+   },
+   "opportunity_number": "RFA-CE-23-004",
+   "full_study_section": {
+    "srg_code": "ZCE1",
+    "srg_flex": null,
+    "sra_designator_code": "AW",
+    "sra_flex_code": null,
+    "group_code": "04",
+    "name": "ZCE1-AW(04)R"
+   },
+   "award_notice_date": "2026-08-15T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01CE003579",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": "ABSTRACT: Violent deaths are responsible for the most person-years of life lost among people 18 to 50 years\nold in the United States. Further, violence inflicts a disproportionate burden on racial and ethnic minorities in\nthe US, thereby exacerbating existing health inequities, including those amplified by COVID-19. Although the\nphysical distancing policies put in place to address the COVID-19 pandemic reduced social interactions,\nviolence-related injury and homicides increased in 2020 in the US. Structural and policy interventions that\ntarget the social-ecological framework can attain sustainable reductions in multiple forms of violence. Given\nthat poverty is one of the drivers of violence, increasing minimum wage may be a potent policy intervention for\nviolence prevention. However, minimum wage increase laws have not been evaluated as a community\nviolence prevention method. Further, several states increased minimum wage during 2020 and 2021, providing\na unique opportunity to examine whether such increases can prevent community violence during the\npandemic. Our study will address three important questions: 1) what role do minimum wage increases play in\ncommunity violence prevention? 2) Does minimum wage increase or lack thereof differentially affect\ncommunity violence among different demographic groups (race/ethnicity, sex, age, and rurality)? and 3) how\nhas the COVID-19 pandemic impacted community violence and if state minimum wage (SMW) increases and\neconomic impact payments (EIP) played a role in mitigating pandemic effects? To address these research\ngaps, our team will employ rigorous quasi-experimental designs (synthetic controls and controlled interrupted\ntime series) with quantitative bias analyses, on six national datasets from 2000-2021 to capture community\nviolence victimizations, assault injuries, and homicide deaths in all 50 states. We will then examine the\ninteraction of minimum wage with income inequality measured using living wage. We will estimate the impacts\nof the COVID-19 pandemic itself, and the impact of state level increases in minimum wage during the\npandemic on community violence outcomes. Through all these analyses we will examine disparities by race,\nsex, age, and rurality. This study is responsive to the RFA-CE-23-004's funding objective three to evaluate\napproaches that improve social or structural contributions that contribute to community violence and\nracial/ethnic inequities. This study will be the first to comprehensively assess the impact of minimum wage\nincreases on violent victimizations, injuries, and homicide deaths and the racial, sex- and age-based, and\ngeographical disparities therein. Further, this study will also be the first to examine how SMW increases and\nEIPs may have moderated the impact of COVID-19 pandemic on community violence in the US. We will\nemploy state-of-the-art epidemiologic methods to build a strong evidence base to control and reduce the\nburden of community violence in the US. Understanding the impact of SMW increases, which greatly affect\nracialized minorities and women, will also provide guidance to reduce systemic inequities.",
+   "project_title": "RFA-CE-23-004: Structural factors Impacting community Violence (STRIVE): The Role of Minimum Wage, COVID-19, and Discrimination",
+   "phr_text": "PROJECT NARRATIVE\nThis study will generate robust evidence for the impact of minimum wage increases on community violence\nvictimization (including robberies, sexual assaults, and IPV victimization), assault injuries, and homicide\ndeaths; will evaluate how minimum wage increases impacted community violence; will assess how the COVID-\n19 pandemic affected community violence and is potentially moderated by economic impact payments; will\nexamine the racial/ethnic, gender, age, and geographic disparities among these associations; and will evaluate\nthe joint impact of the COVD-19 pandemic and minimum wage increases on community violence.",
+   "spending_categories_desc": null,
+   "agency_code": "ALLCDC",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-09-30T00:00:00",
+   "budget_end": "2027-09-29T00:00:00",
+   "cfda_code": "93.136",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": null,
+   "indirect_cost_amt": null,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11624218",
+   "date_added": "2026-08-29T17:03:52"
+  },
+  {
+   "appl_id": 11457555,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "7R01FD008175-03",
+   "project_serial_num": "FD008175",
+   "organization": {
+    "org_name": "COLUMBIA UNIVERSITY HEALTH SCIENCES",
+    "city": null,
+    "country": null,
+    "org_city": "NEW YORK",
+    "org_country": "UNITED STATES",
+    "org_state": "NY",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "621889815"
+    ],
+    "org_ueis": [
+     "QHF5ZZ114M72"
+    ],
+    "primary_duns": "621889815",
+    "primary_uei": "QHF5ZZ114M72",
+    "org_fips": "US",
+    "org_ipf_code": "1833205",
+    "org_zipcode": "100323725",
+    "external_org_id": 1833205
+   },
+   "award_type": "7",
+   "activity_code": "R01",
+   "award_amount": 650000,
+   "is_active": true,
+   "project_num_split": {
+    "appl_type_code": "7",
+    "activity_code": "R01",
+    "ic_code": "FD",
+    "serial_num": "008175",
+    "support_year": "03",
+    "full_support_year": "03",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 15100033,
+     "first_name": "Joseph",
+     "middle_name": "H",
+     "last_name": "Oved",
+     "is_contact_pi": true,
+     "full_name": "Joseph H Oved",
+     "title": "ASSOCIATE PROFESSOR/ATTENDING PHYSICIAN"
+    }
+   ],
+   "contact_pi_name": "OVED, JOSEPH H",
+   "program_officers": [
+    {
+     "first_name": "XINZHI",
+     "middle_name": "",
+     "last_name": "ZHANG",
+     "full_name": "XINZHI  ZHANG"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "FD",
+    "abbreviation": "FDA",
+    "name": "Food and Drug Administration",
+    "admin_org_id": "12500799",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "FD",
+     "name": "Food and Drug Administration",
+     "abbreviation": "FDA",
+     "total_cost": 650000.0,
+     "direct_cost_ic": 485403.0,
+     "indirect_cost_ic": 164597.0
+    }
+   ],
+   "cong_dist": "NY-13",
+   "spending_categories": null,
+   "project_start_date": "2025-12-01T00:00:00",
+   "project_end_date": "2028-06-30T00:00:00",
+   "organization_type": {
+    "name": "Domestic Higher Education",
+    "code": "10",
+    "is_other": true
+   },
+   "geo_lat_lon": {
+    "lon": -73.9414,
+    "lat": 40.8415
+   },
+   "opportunity_number": "PA-24-254",
+   "full_study_section": {
+    "srg_code": "ZFD1",
+    "srg_flex": null,
+    "sra_designator_code": "OC",
+    "sra_flex_code": "S",
+    "group_code": "01",
+    "name": "ZFD1-OC-S(01)1"
+   },
+   "award_notice_date": "2026-05-05T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01FD008175",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": "Abstract\n Acquired aplastic anemia (AA) is a life-threatening disorder caused by an autoreactive T-cell mediated\ndestruction of hematopoietic stem cells resulting in the inability to produce adequate red blood cells, white blood\ncells and platelets. Acquired AA is extremely rare, occurring in 2-6 patients per million. There are between 600-\n900 new cases each year in the United States. While AA can occur at any age there is a bi-modal distribution\nwith peaks in late childhood/early adolescence and in older adults. Patients with AA are susceptible to potentially\nfatal opportunistic infections, clonal hematopoiesis/leukemogenesis, and chronic transfusion burden.\n The workup of a patient with suspected AA takes several weeks during which time the patient receives\nonly supportive care. Immune suppression therapy (IST) and bone marrow transplant (BMT) are the two\ntherapies available for patients once a diagnosis is definitive. For patients with an available matched related\ndonor (MRD), BMT is the standard of care (SOC). Patients lacking a MRD traditionally received IST although\nmany institutions are now prioritizing alternative donor transplant. IST has a 50% response rate over time with\nthe other half of patients requiring additional therapy. BMT has a higher disease-free survival rate but increased\npotential toxicities including graft versus host disease, infertility and graft rejection. The decision of which therapy\nto pursue is often the most anxiety-provoking time for families with children that have newly diagnosed AA.\n This Phase 2a/2b Trial Emapalumab: A Window of Opportunity in Pediatric Aplastic Anemia leverages\ndata showing that the Interferon-gamma (IFNγ) pathway is associated with the pathogenesis of AA. Pediatric\npatients with newly diagnosed AA will receive a prophase of an IFNγ neutralizing monoclonal antibody called\nemapalumab. This prophase will not add time to curative therapy and will occur during the workup period\nbetween presentation and start of definitive therapy. At the conclusion of the prophase, patients that have a\nhematologic response will be consolidated with IST while those that do not will receive institutional SOC. In this\nway we create an algorithm to try and identify patients that are most likely to have a favorable response to IST.\nThis data-driven identification of which patient should receive IST will help alleviate parental anxiety in making\nthese decisions without sufficient information.\n Aim 2 of this project seeks to extend our previous findings that distinct patterns of pediatric clonal\nhematopoiesis are associated with poor outcomes after IST. Conversely, lack of these markers aligned with\nfavorable IST responses. We will prospectively validate these findings and assess if these specific clonal\nchanges can be used as predictive biomarkers for response to IST. We will also examine if an early upfront\nprophase with emapalumab can prevent and/or minimize emergence of clonal hematopoiesis by preserving\nlarger reservoirs of hematopoietic stem cells. By combining the data from these two aims, we hope to provide\nan algorithm to identify pediatric patients with aplastic anemia that are most likely to be cured by IST.",
+   "project_title": "Phase 2a/2b Study Emapalumab: A Window of Opportunity in Pediatric Aplastic Anemia",
+   "phr_text": "Project Narrative\nPediatric acquired aplastic anemia is a life-threatening condition with frequently unknown origin caused by\nautoreactive T cell destruction of hematopoietic stem cells and inability to produce red blood cells, white blood\ncells and platelets. Treatment for aplastic anemia can be with immune suppression therapy or intensified with\nupfront bone marrow transplant. This proposal aims to provide algorithms to identify pediatric patients with newly\ndiagnosed aplastic anemia that will respond favorably to IST, thereby improving cures while minimizing toxicity\nfor this potentially fatal disease.",
+   "spending_categories_desc": null,
+   "agency_code": "FDA",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-12-01T00:00:00",
+   "budget_end": "2027-06-30T00:00:00",
+   "cfda_code": "93.103",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 485403,
+   "indirect_cost_amt": 164597,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11457555",
+   "date_added": "2026-05-09T17:03:52"
+  },
+  {
+   "appl_id": 11292435,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "3R01HS028001-04S1",
+   "project_serial_num": "HS028001",
+   "organization": {
+    "org_name": "INDIANA UNIVERSITY INDIANAPOLIS",
+    "city": null,
+    "country": null,
+    "org_city": "INDIANAPOLIS",
+    "org_country": "UNITED STATES",
+    "org_state": "IN",
+    "org_state_name": null,
+    "dept_type": "PEDIATRICS",
+    "fips_country_code": null,
+    "org_duns": [
+     "603007902",
+     " 625168166"
+    ],
+    "org_ueis": [
+     "DKNHLK3NBPH7",
+     " DL9MTNNKWYR9",
+     " GY8GKRUWM7D5",
+     " HA48EWMJFV47",
+     " HCNBFNDANNV5",
+     " HCRDU7BNPZ13",
+     " HCWTYJ7KQ4U6",
+     " HEBLAL94JHP7",
+     " NKCRSKVJBXE3",
+     " SHHBRBAPSM35",
+     " TA1NYNZ27LQ7",
+     " WJJRCLJ936C8",
+     " X51WYC1QEPD7",
+     " XNBJV454V2W1",
+     " YCJNP5NJYCY1",
+     " YW8WNKKANDR9"
+    ],
+    "primary_duns": "603007902",
+    "primary_uei": "SHHBRBAPSM35",
+    "org_fips": "US",
+    "org_ipf_code": "577806",
+    "org_zipcode": "462022915",
+    "external_org_id": 577806
+   },
+   "award_type": "3",
+   "activity_code": "R01",
+   "award_amount": 96022,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "3",
+    "activity_code": "R01",
+    "ic_code": "HS",
+    "serial_num": "028001",
+    "support_year": "04",
+    "full_support_year": "04S1",
+    "suffix_code": "S1"
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 6118598,
+     "first_name": "MIRIAM",
+     "middle_name": "",
+     "last_name": "KUPPERMANN",
+     "is_contact_pi": false,
+     "full_name": "MIRIAM  KUPPERMANN",
+     "title": ""
+    },
+    {
+     "profile_id": 10868681,
+     "first_name": "BROWNSYNE",
+     "middle_name": "M",
+     "last_name": "TUCKER EDMONDS",
+     "is_contact_pi": true,
+     "full_name": "BROWNSYNE M TUCKER EDMONDS",
+     "title": "ASSISTANT PROFESSOR"
+    }
+   ],
+   "contact_pi_name": "TUCKER EDMONDS, BROWNSYNE M",
+   "program_officers": [
+    {
+     "first_name": "KISHA",
+     "middle_name": "",
+     "last_name": "COA",
+     "full_name": "KISHA  COA"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "HS",
+    "abbreviation": "AHRQ",
+    "name": "Agency for Healthcare Research and Quality",
+    "admin_org_id": "12500803",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "HS",
+     "name": "Agency for Healthcare Research and Quality",
+     "abbreviation": "AHRQ",
+     "total_cost": 96022.0,
+     "direct_cost_ic": 60582.0,
+     "indirect_cost_ic": 35440.0
+    }
+   ],
+   "cong_dist": "IN-07",
+   "spending_categories": null,
+   "project_start_date": "2021-09-30T00:00:00",
+   "project_end_date": "2026-08-31T00:00:00",
+   "organization_type": {
+    "name": "SCHOOLS OF MEDICINE",
+    "code": "10",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -86.175288,
+    "lat": 39.779213
+   },
+   "opportunity_number": "PA-18-795",
+   "full_study_section": {
+    "srg_code": "HEOR",
+    "srg_flex": null,
+    "sra_designator_code": null,
+    "sra_flex_code": null,
+    "group_code": null,
+    "name": "Healthcare Effectiveness and Outcomes Research[HEOR]"
+   },
+   "award_notice_date": "2025-03-03T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01HS028001",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": "Periviable neonates, born between 22 0/7 - 24 6/7 weeks gestational age, cannot survive outside of the womb\nwithout support. Even with support, 40% of these neonates die, and, among survivors, roughly half suffer\nmoderate to severe disability. These births are financially and emotionally costly to families, and all of these\nburdens are most heavily born by Black families, as Black infants are 3 times more likely to be born extremely\npremature. Because mortality is high and outcomes can be poor, the American Academy of Pediatrics calls for\nshared decision making (SDM) when families face these decisions—so that parents are engaged in\ndeliberations, and, ultimately, choose whether to attempt resuscitation or pursue palliation. Our preliminary\nresearch suggests that, despite these recommendations, the current model of periviable decision making is not\nshared, well-informed, or patient-centered. Mortality and morbidity estimates provided are variable and\ninaccurate; there is conflicting guidance regarding antenatal interventions; and goals of care or resuscitation\npreferences are not always elicited. By presenting parents with inconsistent information without eliciting and\nclarifying values and goals of care, providers place parents at substantial risk for misinformed decision making,\ndecisional conflict, and decisional regret. Our previous work also shows that poor decision quality is associated\nwith poor postpartum parental mental health. To optimize these high-stakes counseling encounters, we have\nutilized a novel approach to design, in partnership with patient and clinician stakeholders, a decision support\nintervention - the Periviable GOALS (Getting Optimal Alignment around Life Support) decision support tool\n(DST). This DST is meant to facilitate informed SDM regarding neonatal resuscitation. Periviable GOALS DST\nis designed for parents to review independent of their clinician, and is intended to supplement, not replace,\nclinician counseling. The focus of the DST is the provision of patient-centered outcomes information and\nassistance with values clarification regarding neonatal outcomes. With the completion of pilot testing, we are\nready to conduct a multisite, randomized controlled trial to test the effect of the Periviable GOALS DST on: a)\ndecision quality (i.e., shared decision-making, knowledge, decisional conflict, decision satisfaction, and\ndecision regret), b) mental health (i.e., depression, anxiety, and post-traumatic stress in the postpartum\nperiod), and c) neonatal treatment preference (i.e., resuscitation or comfort care). We hypothesize that\nparticipants who utilize the GOALS DST will have improved decision quality, particularly in regard to SDM\n(primary outcome), and improved mental health outcomes. This work stands to improve the quality of\nperiviable care by ensuring more informed and patient-centered decision-making. Our methodology is\ninnovative, as we are offering patients a stronger voice in research design and, ultimately, clinical practice. Our\nresults will have immediate clinical relevance because the regional and institutional diversity of our trial sites\nimproves generalizability, allowing for broad application and dissemination of the DST.",
+   "project_title": "Promoting Shared Decision Making in Periviable Care: A randomized controlled trial of the Periviable GOALS Decision Support Tool",
+   "phr_text": "Project Narrative\nPeriviable birth is among the leading causes of infant death and childhood disability, with disproportionate\nimpact in low-income and minority communities, and although relatively rare, the CDC estimates that extremely\npremature deliveries result in societal costs exceeding $26 billion dollars annually. To optimize high-stakes\nperiviable counseling encounters, we propose to test, in a multisite, randomized controlled trial, a decision\nsupport intervention (i.e., Periviable GOALS DST) developed by our research team to facilitate informed,\nshared decision-making regarding neonatal resuscitation among women who present to labor and delivery at\nperiviable gestations (from 22 0/7 to 24 6/7 weeks gestational age) and their physicians. The proposed work\nstands to improve the quality of periviable care by enabling more informed and patient-centered decisions, and\nour results will have immediate clinical relevance because the regional and institutional diversity of our trial\nsites, which improves generalizability, allowing for broad application and dissemination of the tool.",
+   "spending_categories_desc": null,
+   "agency_code": "AHRQ",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2024-09-01T00:00:00",
+   "budget_end": "2025-08-31T00:00:00",
+   "cfda_code": "93.226",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 60582,
+   "indirect_cost_amt": 35440,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11292435",
+   "date_added": "2025-03-08T16:12:23"
+  },
+  {
+   "appl_id": 11257477,
+   "subproject_id": "8129",
+   "fiscal_year": 2025,
+   "project_num": "5P01CA078902-27",
+   "project_serial_num": "CA078902",
+   "organization": {
+    "org_name": "FRED HUTCHINSON CANCER CENTER",
+    "city": null,
+    "country": null,
+    "org_city": "SEATTLE",
+    "org_country": "UNITED STATES",
+    "org_state": "WA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "806433145"
+    ],
+    "org_ueis": [
+     "TJFZLPP6NYL6"
+    ],
+    "primary_duns": "806433145",
+    "primary_uei": "TJFZLPP6NYL6",
+    "org_fips": "US",
+    "org_ipf_code": "10068583",
+    "org_zipcode": "981094433",
+    "external_org_id": 10068583
+   },
+   "award_type": "5",
+   "activity_code": "P01",
+   "award_amount": 681869,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "5",
+    "activity_code": "P01",
+    "ic_code": "CA",
+    "serial_num": "078902",
+    "support_year": "27",
+    "full_support_year": "27",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 1885528,
+     "first_name": "BRENDA",
+     "middle_name": "MARIE",
+     "last_name": "SANDMAIER",
+     "is_contact_pi": true,
+     "full_name": "BRENDA MARIE SANDMAIER",
+     "title": "PROFESSOR"
+    }
+   ],
+   "contact_pi_name": "SANDMAIER, BRENDA MARIE",
+   "program_officers": [
+    {
+     "first_name": "LORI",
+     "middle_name": "A",
+     "last_name": "HENDERSON",
+     "full_name": "LORI A HENDERSON"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "CA",
+    "abbreviation": "NCI",
+    "name": "National Cancer Institute",
+    "admin_org_id": "12500008",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "CA",
+     "name": "National Cancer Institute",
+     "abbreviation": "NCI",
+     "total_cost": 681869.0,
+     "direct_cost_ic": 454538.0,
+     "indirect_cost_ic": 227331.0
+    }
+   ],
+   "cong_dist": "WA-07",
+   "spending_categories": [
+    5968,
+    108,
+    132,
+    176,
+    180,
+    306,
+    556,
+    1859,
+    729,
+    731,
+    5970,
+    856,
+    862
+   ],
+   "project_start_date": "1999-04-12T00:00:00",
+   "project_end_date": "2027-02-28T00:00:00",
+   "organization_type": {
+    "name": "Other Domestic Non-Profits",
+    "code": "NP",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -122.329606,
+    "lat": 47.626482
+   },
+   "opportunity_number": "PAR-18-290",
+   "full_study_section": {
+    "srg_code": "ZCA1",
+    "srg_flex": null,
+    "sra_designator_code": "TCRB",
+    "sra_flex_code": "Q",
+    "group_code": "M1",
+    "name": "ZCA1-TCRB-Q(M1)"
+   },
+   "award_notice_date": "2025-06-25T10:27:51",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "P01CA078902",
+   "terms": "<Ab response><Acute leukemia><Allogenic><Allografting><Antibody Formation><Antibody Production><Assay><Astatine><B220><Bioassay><Biological Agent><Biological Assay><Biological Products><Biometrics><Biometry><Biostatistics><Blood><Blood Plasma Cell><Blood Reticuloendothelial System><Bone Marrow><Bone Marrow Reticuloendothelial System><CD45><Calibration><Cancers><Clinical><Clinical Evaluation><Clinical Research><Clinical Study><Clinical Testing><Clinical Treatment Moab><Clinical Trials><Conduct Clinical Trials><Cyclotrons><Data Analyses><Data Analysis><Development><Disease><Disorder><Drug Kinetics><Drugs><Dysmyelopoietic Syndromes><Equipment><Fred Hutchinson Cancer Research Center><GP180><Good Manufacturing Process><Good manufacturing practice><Graft-Versus-Tumor Induction><HSC transplantation><Hematopoietic Stem Cell Transplant><Hematopoietic Stem Cell Transplantation><Human><Human Resources><Immunoradiotherapy><Individual><Infrastructure><Investigators><LY5><Label><Laboratories><Laboratory Chemicals><Location><Malignant><Malignant - descriptor><Malignant Neoplasms><Malignant Tumor><Manpower><Materials Testing><Medical><Medication><Methods><Modern Man><Monoclonal Antibodies><Multiple Myeloma><Myelodysplastic Disease><Myelodysplastic Syndromes><P01 Mechanism><P01 Program><PTPRC><PTPRC gene><Patients><Pharmaceutical Agent><Pharmaceutical Preparations><Pharmaceuticals><Pharmacokinetics><Pharmacologic Substance><Pharmacological Substance><Plasma Cells><Plasma-Cell Myeloma><Plasmacytes><Procedures><Process><Product Labeling><Production><Progenitor Cell Transplantation><Program Project Grant><Program Research Project Grants><Quality Control><Radiation Chemistry><Radioactive Isotopes><Radiochemistry><Radioimmunoconjugate><Radioimmunotherapy><Radioisotopes><Radiolabeled><Radiolabeled Antibodies><Radionuclides><Reagent><Refractory Anemia with an Excess of Blasts><Refractory anaemia with excess blasts><Regimen><Regulation><Research><Research Personnel><Research Program Projects><Research Resources><Researchers><Resource Sharing><Resources><Running><Sampling><Services><Site><Smoldering Leukemia><Stem Cell Transplantation><Stem cell transplant><Sterility><T200><Technical Expertise><Techniques><Testing><Therapeutic><Treatment Protocols><Treatment Regimen><Treatment Schedule><Universities><Vial><Vial device><Washington><antibody biosynthesis><antibody conjugate><biologics><biopharmaceutical><biotherapeutic agent><blood stem cell transplantation><clinical test><data interpretation><data management><developmental><drug/agent><graft-versus-tumor><hematopoietic cell transplantation><hematopoietic cellular transplantation><hematopoietic progenitor cell transplantation><immunoglobulin biosynthesis><improved><mAbs><malignancy><manufacture><monoclonal Abs><monoclonal antibody production><myelodysplasia><myeloma><myelomatosis><neoplasm/cancer><novel><personnel><pharmaceutical><plasmocyte><pre-clinical study><preclinical study><prevent relapse><progenitor transplantation><radiolabeling><radiologically labeled><relapse prevention><research clinical testing><sample collection><scale up><specimen collection><stem and progenitor cell transplantations><sterile><technical skills><translational investigator><translational researcher><translational scientist>",
+   "pref_terms": "Acute leukemia;Allogenic;Allografting;Antibody Formation;Astatine;Biological Assay;Biological Products;Biometry;Blood;Bone Marrow;Calibration;Clinical;Clinical Research;Clinical Trials;Conduct Clinical Trials;Cyclotrons;Data Analyses;Development;Disease;Drug Kinetics;Dysmyelopoietic Syndromes;Equipment;Fred Hutchinson Cancer Research Center;Good Manufacturing Process;Graft-Versus-Tumor Induction;Hematopoietic Stem Cell Transplantation;Human;Human Resources;Individual;Infrastructure;Label;Laboratories;Laboratory Chemicals;Location;Malignant - descriptor;Malignant Neoplasms;Materials Testing;Medical;Methods;Monoclonal Antibodies;Multiple Myeloma;PTPRC gene;Patients;Pharmaceutical Preparations;Pharmacologic Substance;Plasma Cells;Procedures;Process;Product Labeling;Production;Program Research Project Grants;Quality Control;Radiochemistry;Radioimmunoconjugate;Radioimmunotherapy;Radioisotopes;Radiolabeled;Reagent;Regimen;Regulation;Research;Research Personnel;Resource Sharing;Resources;Running;Sampling;Services;Site;Stem cell transplant;Sterility;Technical Expertise;Techniques;Testing;Therapeutic;Treatment Protocols;Universities;Vial device;Washington;antibody conjugate;data management;improved;manufacture;monoclonal antibody production;novel;preclinical study;relapse prevention;research clinical testing;sample collection;scale up;translational scientist",
+   "abstract_text": "PROJECT SUMMARY / ABSTRACT – CORE B\nCore B, Pharmaceutical Production, is responsible for the production of the monoclonal antibodies (MAbs),\nthe antibody conjugates, the alpha-emitting radionuclide astatine-211 (211At) and the 211At-labeled antibody\nconjugates. The Core will produce anti-CD45 and anti-CD38 MAbs used in preclinical studies (Projects 1, 2\nand 3) and produce clinical grade anti-human CD45 BC8 MAb and anti-human CD38 OKT10 MAb used in\nclinical trials (Projects 2 and 3). The MAbs will be conjugated with a novel reagent (B10-NCS) to produce\nMAb-B10 conjugates for radiolabeling with astatine-211 (211At). All MAbs and clinical grade reagents will be\nproduced, purified and vialed in the Biologics Production Facility (BPF) of the Fred Hutch. The B10-NCS\nreagent and MAb-B10 conjugates used for preclinical studies will be produced in appropriate chemical\nlaboratories at the University of Washington. Clinical grade BC8-B10 conjugate and OKT10-B10 will be\nproduced, purified and vialed under current good manufacturing practice (cGMP) conditions in the Fred Hutch\nBPF. Production, isolation and purification of the 211At will be done in the UW Medical Cyclotron Facility and\nUW Radionuclide Production Laboratory. The 211At-MAb-B10 for preclinical studies will be conducted in UW\nradiochemistry laboratory, and 211At-BC8-B10 and 211At-OKT10-B10 used in the clinical trials will be produced\nin a cGMP facility at UW. Testing of the materials produced will be conducted at UW or Fred Hutch, depending\non the assay. Patient samples obtained from Projects 2 and 3 will be collected, processed and stored at the\nFred Hutch for use in Project 1.",
+   "project_title": "Core B: Pharmaceutical Production",
+   "phr_text": "PROJECT NARRATIVE - Core B\nThe radiolabeled antibodies produced under federally approved methods in Core B are critical for use in key\nclinical trials in patients, which will ultimately lead to development of minimally toxic hematopoietic cell\ntransplant regimens for the treatment of patients with blood-based cancers. Production of these antibodies is\nmade possible through the use of unique facilities at the Fred Hutch and the University of Washington.",
+   "spending_categories_desc": "Adult/Somatic Stem Cell and Progenitor Cell Research; Biotechnology; Cancer; Clinical Research; Clinical Trials and Supportive Activities; Hematology; Orphan Drug; Radiation Oncology; Rare Diseases; Regenerative Medicine; Stem Cell and Progenitor Cell Research; Translational Research; Transplantation",
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-03-01T00:00:00",
+   "budget_end": "2026-02-28T00:00:00",
+   "cfda_code": null,
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 454538,
+   "indirect_cost_amt": 227331,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11257477",
+   "date_added": "2025-06-28T16:13:32"
+  },
+  {
+   "appl_id": 588365,
+   "subproject_id": null,
+   "fiscal_year": 1990,
+   "project_num": "3P01CA027502-12S1",
+   "project_serial_num": "CA027502",
+   "organization": {
+    "org_name": "UNIVERSITY OF ARIZONA",
+    "city": null,
+    "country": null,
+    "org_city": "TUCSON",
+    "org_country": "UNITED STATES",
+    "org_state": "AZ",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "806345617"
+    ],
+    "org_ueis": [
+     "ED44Y3W6P7B9"
+    ],
+    "primary_duns": "806345617",
+    "primary_uei": "ED44Y3W6P7B9",
+    "org_fips": "US",
+    "org_ipf_code": "490201",
+    "org_zipcode": "857210158",
+    "external_org_id": 490201
+   },
+   "award_type": "3",
+   "activity_code": "P01",
+   "award_amount": 74500,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "3",
+    "activity_code": "P01",
+    "ic_code": "CA",
+    "serial_num": "027502",
+    "support_year": "12",
+    "full_support_year": "12S1",
+    "suffix_code": "S1"
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 1871632,
+     "first_name": "David",
+     "middle_name": "Samuel",
+     "last_name": "Alberts",
+     "is_contact_pi": true,
+     "full_name": "David Samuel Alberts",
+     "title": "REGENTS' PROF. OF MEDICINE, PHARM., PUB."
+    }
+   ],
+   "contact_pi_name": "ALBERTS, DAVID S",
+   "program_officers": [],
+   "agency_ic_admin": {
+    "code": "CA",
+    "abbreviation": "NCI",
+    "name": "National Cancer Institute",
+    "admin_org_id": "12500008",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 1990,
+     "code": "CA",
+     "name": "National Cancer Institute",
+     "abbreviation": "NCI",
+     "total_cost": 74500.0,
+     "direct_cost_ic": 50000.0,
+     "indirect_cost_ic": 24500.0
+    }
+   ],
+   "cong_dist": "AZ-07",
+   "spending_categories": null,
+   "project_start_date": "1990-09-30T00:00:00",
+   "project_end_date": "1992-11-30T00:00:00",
+   "organization_type": {
+    "name": "SCHOOLS OF MEDICINE",
+    "code": "10",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -110.959467,
+    "lat": 32.232844
+   },
+   "opportunity_number": null,
+   "full_study_section": {
+    "srg_code": "SRC",
+    "srg_flex": null,
+    "sra_designator_code": null,
+    "sra_flex_code": null,
+    "group_code": null,
+    "name": "SRC"
+   },
+   "award_notice_date": "1992-01-16T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "P01CA027502",
+   "terms": null,
+   "pref_terms": null,
+   "abstract_text": null,
+   "project_title": "CHEMOPREVENTION OF SKIN AND ORAL CANCER",
+   "phr_text": null,
+   "spending_categories_desc": null,
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": null,
+   "budget_start": "1992-01-17T00:00:00",
+   "budget_end": "1992-11-30T00:00:00",
+   "cfda_code": null,
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 50000,
+   "indirect_cost_amt": 24500,
+   "project_detail_url": "https://reporter.nih.gov/project-details/588365",
+   "date_added": "2011-03-09T00:00:00"
+  },
+  {
+   "appl_id": 11052511,
+   "subproject_id": null,
+   "fiscal_year": 2025,
+   "project_num": "5R01MH132500-03",
+   "project_serial_num": "MH132500",
+   "organization": {
+    "org_name": "FRED HUTCHINSON CANCER CENTER",
+    "city": null,
+    "country": null,
+    "org_city": "SEATTLE",
+    "org_country": "UNITED STATES",
+    "org_state": "WA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "806433145"
+    ],
+    "org_ueis": [
+     "TJFZLPP6NYL6"
+    ],
+    "primary_duns": "806433145",
+    "primary_uei": "TJFZLPP6NYL6",
+    "org_fips": "US",
+    "org_ipf_code": "10068583",
+    "org_zipcode": "981094433",
+    "external_org_id": 10068583
+   },
+   "award_type": "5",
+   "activity_code": "R01",
+   "award_amount": 534097,
+   "is_active": false,
+   "project_num_split": {
+    "appl_type_code": "5",
+    "activity_code": "R01",
+    "ic_code": "MH",
+    "serial_num": "132500",
+    "support_year": "03",
+    "full_support_year": "03",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 9731366,
+     "first_name": "Michele",
+     "middle_name": "Peake",
+     "last_name": "Andrasik",
+     "is_contact_pi": true,
+     "full_name": "Michele Peake Andrasik",
+     "title": "DIRECTOR, SOCIAL & BEHAVIORAL SCIENCES"
+    },
+    {
+     "profile_id": 8656405,
+     "first_name": "Brian",
+     "middle_name": "G.",
+     "last_name": "Southwell",
+     "is_contact_pi": false,
+     "full_name": "Brian G. Southwell",
+     "title": ""
+    }
+   ],
+   "contact_pi_name": "ANDRASIK, MICHELE PEAKE",
+   "program_officers": [
+    {
+     "first_name": "MICHAEL",
+     "middle_name": "JAMES",
+     "last_name": "STIRRATT",
+     "full_name": "MICHAEL JAMES STIRRATT"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "MH",
+    "abbreviation": "NIMH",
+    "name": "National Institute of Mental Health",
+    "admin_org_id": "12500050",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2025,
+     "code": "MH",
+     "name": "National Institute of Mental Health",
+     "abbreviation": "NIMH",
+     "total_cost": 177333.0,
+     "direct_cost_ic": 124265.0,
+     "indirect_cost_ic": 53068.0
+    },
+    {
+     "fy": 2025,
+     "code": "OD",
+     "name": "NIH Office of the Director",
+     "abbreviation": "OD",
+     "total_cost": 356764.0,
+     "direct_cost_ic": 249999.0,
+     "indirect_cost_ic": 106765.0
+    }
+   ],
+   "cong_dist": "WA-07",
+   "spending_categories": [
+    89,
+    108,
+    176,
+    180,
+    284,
+    5546,
+    5599,
+    331,
+    338,
+    443,
+    679,
+    680,
+    701,
+    4793,
+    856,
+    877
+   ],
+   "project_start_date": "2023-05-19T00:00:00",
+   "project_end_date": "2025-04-01T00:00:00",
+   "organization_type": {
+    "name": "Other Domestic Non-Profits",
+    "code": "NP",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -122.329606,
+    "lat": 47.626482
+   },
+   "opportunity_number": "RFA-MH-22-170",
+   "full_study_section": {
+    "srg_code": "ZRG1",
+    "srg_flex": null,
+    "sra_designator_code": "RPHB",
+    "sra_flex_code": "F",
+    "group_code": "53",
+    "name": "Special Emphasis Panel[ZRG1-RPHB-F(53)R]"
+   },
+   "award_notice_date": "2025-03-26T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RP",
+   "core_project_num": "R01MH132500",
+   "terms": "<2019-nCoV vaccine><AIDS Virus><Acquired Immune Deficiency Syndrome Virus><Acquired Immunodeficiency Syndrome Virus><Address><Advertising><Affect><Awareness><BIPOC><Behavioral><Black, Indigenous, People of Color><COVID crisis><COVID epidemic><COVID pandemic><COVID-19><COVID-19 Prevention Network><COVID-19 crisis><COVID-19 epidemic><COVID-19 era><COVID-19 global health crisis><COVID-19 global pandemic><COVID-19 health crisis><COVID-19 pandemic><COVID-19 period><COVID-19 public health crisis><COVID-19 vaccine><COVID-19 years><CV-19><Classification><CoVPN><Collaborations><Comment><Commentary><Communication><Communities><Coronavirus Infectious Disease 2019><Curriculum><Data><Development><Dissemination and Implementation><E-Mail><Editorial Comment><Educational Curriculum><Effectiveness><Electronic Mail><Email><Enrollment><Facebook><Focus Groups><Funding><Future><General Taxonomy><Goals><Government><HIV><HIV Vaccine Trials Network><HIV vaccine><HIV/AIDS Vaccines><HVTN><Health><Health Services><Human Immunodeficiency Viruses><Instagram><International><Interruption><Investigators><Knowledge><LAV-HTLV-III><LGBTQ><Lesbian Gay Bi-sexual Transgender Queer><Lesbian Gay Bisexual Transgender Queer><Long-term Follow-up><Lymphadenopathy-Associated Virus><Marketing><Measures><Media Campaign><Medical Research><Misinformation><Modeling><Outcome><Participant><Patient Recruitments><Performance><Phase><Phase 3 Clinical Trials><Phase III Clinical Trials><Population Heterogeneity><Position><Positioning Attribute><Preventive><Protocol><Protocols documentation><Published Comment><Registries><Research><Research Personnel><Researchers><SARS-CoV-2 epidemic><SARS-CoV-2 global health crisis><SARS-CoV-2 global pandemic><SARS-CoV-2 pandemic><SARS-CoV-2 vaccine><SARS-coronavirus-2 epidemic><SARS-coronavirus-2 pandemic><SARS-coronavirus-2 vaccine><Series><Severe Acute Respiratory Syndrome CoV 2 epidemic><Severe Acute Respiratory Syndrome CoV 2 pandemic><Severe Acute Respiratory Syndrome CoV 2 vaccine><Severe acute respiratory syndrome coronavirus 2 epidemic><Severe acute respiratory syndrome coronavirus 2 pandemic><Severe acute respiratory syndrome coronavirus 2 vaccine><Survey Instrument><Surveys><Systematics><Taxonomy><Testing><Time><Training><Trust><Twitter><United States><Vaccine Clinical Trial><Vaccines><Viewpoint><Virus-HIV><Visit><Work><clinical research site><clinical site><clinical training><combat><community based participatory research><community engagement><community led research><community marginalization><community participatory research><community partnered participatory research><community partnership><coronavirus disease 2019><coronavirus disease 2019 crisis><coronavirus disease 2019 epidemic><coronavirus disease 2019 global health crisis><coronavirus disease 2019 global pandemic><coronavirus disease 2019 health crisis><coronavirus disease 2019 pandemic><coronavirus disease 2019 prevention network><coronavirus disease 2019 public health crisis><coronavirus disease 2019 vaccine><coronavirus disease crisis><coronavirus disease epidemic><coronavirus disease pandemic><coronavirus disease-19><coronavirus disease-19 global pandemic><coronavirus disease-19 pandemic><coronavirus disease-19 vaccine><coronavirus infectious disease-19><design><designing><developmental><diverse populations><diversity, equity, and inclusiveness><early phase trial><efficacy testing><electronic communication><eligible participant><engagement with communities><enroll><equity, diversity, and inclusion><evidence base><experience><forging><health communication><hesitant to vaccination><heterogeneous population><human immunodeficiency virus vaccine><implementation research><improved><innovate><innovation><innovative><lesson plans><long-term followup><marginalized community><multidisciplinary><nCoV vaccine><nCoV-19 vaccine><nCoV19 vaccine><outreach><participant enrollment><participant recruitment><participatory action research><patient enrollment><phase III protocol><population diversity><primary outcome><programs><recruit><seropositive><severe acute respiratory syndrome coronavirus 2 global health crisis><severe acute respiratory syndrome coronavirus 2 global pandemic><social media platform><social platform><social stigma><stigma><trend analysis><trial enrollment><trustworthiness><vaccination hesitancy><vaccination study><vaccination trial><vaccine against 2019-nCov><vaccine against COVID-19><vaccine against SARS-CoV-2><vaccine against SARS-coronavirus-2><vaccine against Severe Acute Respiratory Syndrome CoV 2><vaccine against Severe acute respiratory syndrome coronavirus 2><vaccine candidates against SARS-CoV-2><vaccine for novel coronavirus><vaccine hesitancy><vaccine hesitant><vaccine study><vaccine trial><vaccines preventing COVID><vaccines to prevent COVID><virtual><web site><website>",
+   "pref_terms": "Address;Advertising;Affect;Awareness;Behavioral;Black, Indigenous, People of Color;COVID-19;COVID-19 Prevention Network;COVID-19 pandemic;COVID-19 vaccine;Classification;Collaborations;Communication;Communities;Data;Development;Dissemination and Implementation;Educational Curriculum;Effectiveness;Electronic Mail;Enrollment;Facebook;Focus Groups;Funding;Future;Goals;Government;HIV;HIV Vaccine Trials Network;HIV vaccine;Health;Health Services;Instagram;International;Interruption;Knowledge;Lesbian Gay Bisexual Transgender Queer;Long-term Follow-up;Marketing;Measures;Media Campaign;Medical Research;Misinformation;Modeling;Outcome;Participant;Patient Recruitments;Performance;Phase;Phase III Clinical Trials;Population Heterogeneity;Positioning Attribute;Preventive;Protocols documentation;Published Comment;Registries;Research;Research Personnel;Series;Surveys;Taxonomy;Testing;Time;Training;Trust;Twitter;United States;Vaccine Clinical Trial;Vaccines;Visit;Work;clinical research site;clinical training;combat;community based participatory research;community engagement;community partnership;design;early phase trial;efficacy testing;eligible participant;equity, diversity, and inclusion;evidence base;experience;forging;health communication;implementation research;improved;innovation;marginalized community;multidisciplinary;outreach;participant enrollment;primary outcome;programs;recruit;seropositive;social media platform;social stigma;trend analysis;trial enrollment;trustworthiness;vaccine hesitancy;vaccine trial;virtual;web site",
+   "abstract_text": "Project Summary/Abstract\nThe HIV Vaccine Trials Network (HVTN) has experienced significant challenges recruiting\nparticipants in early-stage HIV vaccine clinical trials. Formidable barriers to participation\nin HVTN preventive HIV early phase trials, including lack of HIV public urgency, numerous\nstudy visits, long-term follow-up, vaccine induced seropositivity and HIV stigma, have\nresulted in significant challenges enrolling participants into these trials. We will co-refine\nan existing media campaign, develop, test and evaluate a multilevel communication\nstrategy to address some of these crucial concerns and strengthen our reputation of\ntrustworthiness in marginalized communities disproportionately affected by HIV to\nincrease their enrollment into early-stage HIV vaccine trials. Over the next 7 years, the\nHVTN will focus on the early phase trial program to move the field forward and to identify\nproducts efficiently and effectively for later efficacy testing. This will require the\ndevelopment and deployment of evidence-based strategies to combat misinformation and\nto strengthen community engagement. Our team and the clinical research sites in our\nNetwork have forged longstanding community partnerships with diverse stakeholders.\nDuring our phase 3 clinical trials for the US government-funded COVID-19 vaccine clinical\ntrials we developed new strategies to supplement our community engagement program:\n(1) a consumer-driven marketing and advertising campaign; (2) virtual town halls and\nlistening sessions; and (3) the use of expert panels to review protocols and provide\nguidance and direction. We will build on this work to inform our HIV strategy. We\nassembled an experienced team of diverse researchers to accomplish the following aims:\n1) Identify components of an initial media campaign that impact HIV vaccine trial\nregistration and develop a multilevel communication strategy; 2) Evaluate the impact of\nthe multilevel communication strategy on Phase I HIV vaccine trial registration; and 3)\nDetermine if the multilevel communication strategy generates public engagement with\nvaccines and vaccine trials. This project will be the first large-scale communication study\nconducted in the United States to improve community awareness of and engagement\nwith HIV vaccine trial research. It will assess misinformation and engagement with this\nstrategy to inform current and future HIV vaccine trials recruitment and is expected to\nhave a positive health impact by establishing robust strategies to improve diversity,\nequity, and inclusion in Phase 1 preventive HIV vaccine trials.",
+   "project_title": "Evaluating a Multilevel Communication Campaign to Increase HIV Vaccine Trial Enrollment ",
+   "phr_text": "Project Narrative\nThe overall purpose of this study is to increase the enrollment of marginalized communities\ndisproportionately affected by HIV into early-stage preventive HIV vaccine trials. Using\ncommunity-based participatory research approaches and informed by our COVID-19 work, we\nwill co-refine, test, and evaluate an existing media campaign and develop a multilevel\ncommunication strategy. The study will identify critical factors and strategy components that\nimpact HIV vaccine trial registration and determine if the strategy effectively addresses\nmisinformation about vaccines and vaccine trials.",
+   "spending_categories_desc": "Behavioral and Social Science; Biotechnology; Clinical Research; Clinical Trials and Supportive Activities; HIV/AIDS; Health Disparities Research; Health Disparities and Racial or Ethnic Minority Health Research; Immunization; Infectious Diseases; Mental Health; Pediatric; Pediatric - AIDS; Prevention; Social Determinants of Health; Translational Research; Vaccine Related",
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2025-03-01T00:00:00",
+   "budget_end": "2025-04-01T00:00:00",
+   "cfda_code": "93.242",
+   "funding_mechanism": "Non-SBIR/STTR",
+   "direct_cost_amt": 374264,
+   "indirect_cost_amt": 159833,
+   "project_detail_url": "https://reporter.nih.gov/project-details/11052511",
+   "date_added": "2025-03-29T16:13:58"
+  },
+  {
+   "appl_id": 10915693,
+   "subproject_id": null,
+   "fiscal_year": 2024,
+   "project_num": "5U54CA242977-07",
+   "project_serial_num": "CA242977",
+   "organization": {
+    "org_name": "FRED HUTCHINSON CANCER CENTER",
+    "city": null,
+    "country": null,
+    "org_city": "SEATTLE",
+    "org_country": "UNITED STATES",
+    "org_state": "WA",
+    "org_state_name": null,
+    "dept_type": null,
+    "fips_country_code": null,
+    "org_duns": [
+     "806433145"
+    ],
+    "org_ueis": [
+     "TJFZLPP6NYL6"
+    ],
+    "primary_duns": "806433145",
+    "primary_uei": "TJFZLPP6NYL6",
+    "org_fips": "US",
+    "org_ipf_code": "10068583",
+    "org_zipcode": "981094433",
+    "external_org_id": 10068583
+   },
+   "award_type": "5",
+   "activity_code": "U54",
+   "award_amount": 1552556,
+   "is_active": true,
+   "project_num_split": {
+    "appl_type_code": "5",
+    "activity_code": "U54",
+    "ic_code": "CA",
+    "serial_num": "242977",
+    "support_year": "07",
+    "full_support_year": "07",
+    "suffix_code": ""
+   },
+   "principal_investigators": [
+    {
+     "profile_id": 11304923,
+     "first_name": "Robinson",
+     "middle_name": "Leonardo",
+     "last_name": "Cabello Chavez",
+     "is_contact_pi": false,
+     "full_name": "Robinson Leonardo Cabello Chavez",
+     "title": ""
+    },
+    {
+     "profile_id": 2068561,
+     "first_name": "ANN",
+     "middle_name": "C",
+     "last_name": "DUERR",
+     "is_contact_pi": false,
+     "full_name": "ANN C DUERR",
+     "title": ""
+    },
+    {
+     "profile_id": 10326036,
+     "first_name": "Marie",
+     "middle_name": "Marcelle H.",
+     "last_name": "Deschamps",
+     "is_contact_pi": false,
+     "full_name": "Marie Marcelle H. Deschamps",
+     "title": ""
+    },
+    {
+     "profile_id": 8704457,
+     "first_name": "Yeycy",
+     "middle_name": "A.",
+     "last_name": "Donastorg",
+     "is_contact_pi": false,
+     "full_name": "Yeycy A. Donastorg",
+     "title": ""
+    },
+    {
+     "profile_id": 2478519,
+     "first_name": "MARGARET",
+     "middle_name": "M",
+     "last_name": "MADELEINE",
+     "is_contact_pi": true,
+     "full_name": "MARGARET M MADELEINE",
+     "title": "PROFESSOR"
+    }
+   ],
+   "contact_pi_name": "MADELEINE, MARGARET M",
+   "program_officers": [
+    {
+     "first_name": "MARIA",
+     "middle_name": "SILVINA",
+     "last_name": "FRECH",
+     "full_name": "MARIA SILVINA FRECH"
+    }
+   ],
+   "agency_ic_admin": {
+    "code": "CA",
+    "abbreviation": "NCI",
+    "name": "National Cancer Institute",
+    "admin_org_id": "12500008",
+    "admin_funding_url": ""
+   },
+   "agency_ic_fundings": [
+    {
+     "fy": 2024,
+     "code": "CA",
+     "name": "National Cancer Institute",
+     "abbreviation": "NCI",
+     "total_cost": 1552556.0,
+     "direct_cost_ic": 1470341.0,
+     "indirect_cost_ic": 687646.0
+    }
+   ],
+   "cong_dist": "WA-07",
+   "spending_categories": null,
+   "project_start_date": "2019-09-18T00:00:00",
+   "project_end_date": "2027-07-31T00:00:00",
+   "organization_type": {
+    "name": "Other Domestic Non-Profits",
+    "code": "NP",
+    "is_other": false
+   },
+   "geo_lat_lon": {
+    "lon": -122.329606,
+    "lat": 47.626482
+   },
+   "opportunity_number": "RFA-CA-18-018",
+   "full_study_section": {
+    "srg_code": "ZCA1",
+    "srg_flex": null,
+    "sra_designator_code": "RTRB",
+    "sra_flex_code": "R",
+    "group_code": "M2",
+    "name": "ZCA1-RTRB-R(M2)"
+   },
+   "award_notice_date": "2024-09-04T00:00:00",
+   "is_new": false,
+   "mechanism_code_dc": "RC",
+   "core_project_num": "U54CA242977",
+   "terms": "<0-11 years old><AIDS Virus><Acceleration><Acquired Immune Deficiency Syndrome Virus><Acquired Immunodeficiency Syndrome Virus><Address><Algorithms><Approaches to prevention><Assay><B blood cells><B cell><B cells><B-Cells><B-Lymphocytes><B-cell><Bioassay><Biological Assay><Cancer Burden><Cancer Cause><Cancer Etiology><Cancer Treatment><Caribbean><Caribbean Sea Region><Caribbean region><Caring><Cervical Cancer><Cervix Cancer><Cessation of life><Child><Child Youth><Children (0-21)><Clinic><Clinical><Clinical Trials><Collaborations><Collection><Communication><Country><Death><Dedications><Diagnosis><Dominican Republic><Dose><Ensure><Future><Future Generations><General Population><General Public><Goals><HIV><HPV Vaccination><HPV Vaccine><HPV induced cancer><HPV malignancy><HPV+ cancer><HPV-Related Malignancy><HPV-associated cancer><HPV-associated malignancy><HPV-related cancer><Human Immunodeficiency Viruses><Human Papilloma Virus Vaccination><Human Papilloma Virus Vaccine><Human Papilloma Virus-Related Malignancy><Human Papilloma Virus-Related Malignant Neoplasm><Human Papilloma Virus-associated cancer><Human Papilloma Virus-associated malignancy><Human Papilloma Virus-related cancer><Human Papillomavirus Vaccination><Human papillomavirus Vaccine><Human papillomavirus cancer><Human papillomavirus induced cancer><Human papillomavirus malignancy><Human papillomavirus-Related Malignancy><Human papillomavirus-Related Malignant Neoplasm><Immune mediated therapy><Immunologically Directed Therapy><Immunotherapy><Incidence><Infrastructure><Interruption><Investigators><LAV-HTLV-III><LMIC><Laboratories><Latin America><Lesion><Low-resource area><Low-resource community><Low-resource environment><Low-resource region><Low-resource setting><Lymphadenopathy-Associated Virus><Malignant Cervical Neoplasm><Malignant Cervical Tumor><Malignant Neoplasm Therapy><Malignant Neoplasm Treatment><Malignant Neoplasm of the Cervix><Malignant Tumor of the Cervix><Malignant Tumor of the Cervix Uteri><Malignant Uterine Cervix Neoplasm><Malignant Uterine Cervix Tumor><Malignant neoplasm of cervix uteri><Minority><Modeling><Monitor><NCI Organization><National Cancer Burden><National Cancer Institute><Persons><Peru><Population><Preventative strategy><Prevention><Prevention approach><Prevention strategy><Preventive strategy><Primary Care><Primary Prevention><Productivity><Protocol><Protocols documentation><Provider><Quality Control><Regimen><Research Personnel><Research Resources><Researchers><Resource-constrained area><Resource-constrained community><Resource-constrained environment><Resource-constrained region><Resource-constrained setting><Resource-limited area><Resource-limited community><Resource-limited environment><Resource-limited region><Resource-limited setting><Resource-poor area><Resource-poor community><Resource-poor environment><Resource-poor region><Resource-poor setting><Resources><Safety><Sampling><Schedule><Site><Statistical Data Analyses><Statistical Data Analysis><Statistical Data Interpretation><Time><Training><Triage><Uterine Cervix Cancer><Vaccination><Vaccines><Virus-HIV><Visit><Vulnerable Populations><West Indies Region><Woman><Work><anti-cancer therapy><cancer prevention><cancer therapy><cancer-directed therapy><cervical cancer prevention><cost><data management><design><designing><effectiveness testing><experience><human papillomavirus associated malignancy><human papillomavirus-associated cancer><human papillomavirus-related cancer><immune therapeutic approach><immune therapeutic interventions><immune therapeutic regimens><immune therapeutic strategy><immune therapy><immune-based therapies><immune-based treatments><immuno therapy><immunogenicity><improved><kids><low and middle-income countries><mortality><new approaches><new technology><novel><novel approaches><novel strategies><novel strategy><novel technologies><precancer><precancerous><premalignant><programs><recruit><response><screening><screenings><statistical analysis><statistics><success><treatment strategy><vulnerable group><vulnerable individual><vulnerable people><youngster>",
+   "pref_terms": "Acceleration;Address;Algorithms;B-Lymphocytes;Biological Assay;Cancer Burden;Cancer Etiology;Caribbean region;Caring;Cessation of life;Child;Clinic;Clinical;Clinical Trials;Collaborations;Collection;Communication;Country;Dedications;Diagnosis;Dominican Republic;Dose;Ensure;Future;Future Generations;General Population;Goals;HIV;Human Papilloma Virus Vaccination;Human Papilloma Virus Vaccine;Human Papilloma Virus-Related Malignant Neoplasm;Immunotherapy;Incidence;Infrastructure;Interruption;Laboratories;Latin America;Lesion;Malignant neoplasm of cervix uteri;Minority;Modeling;Monitor;National Cancer Institute;Persons;Peru;Population;Prevention;Prevention approach;Prevention strategy;Primary Care;Primary Prevention;Productivity;Protocols documentation;Provider;Quality Control;Regimen;Research Personnel;Resource-limited setting;Resources;Safety;Sampling;Schedule;Site;Statistical Data Interpretation;Time;Training;Triage;Vaccination;Vaccines;Visit;Vulnerable Populations;Woman;Work;cancer prevention;cancer therapy;cervical cancer prevention;cost;data management;design;effectiveness testing;experience;immunogenicity;improved;low and middle-income countries;mortality;new technology;novel;novel strategies;premalignant;programs;recruit;response;screening;statistics;success;treatment strategy",
+   "abstract_text": "PROJECT SUMMARY – OVERALL\nWorldwide, cervical cancer is the fourth leading cause of cancer incidence and mortality; 80% of cervical\ncancers arise and 87% of cervical cancer deaths occur in low and lower-middle income countries. In Peru,\ncervical cancer is diagnosed at a rate of 17 per 100,000 women per year, and in the DR at 23 per 100,000\nannually among women in the general population. The burden of cervical cancer is substantially increased\namong women living with HIV (WLWH), although the exact rates are not well described. Although HPV\nvaccines are safe and effective as primary prevention, they have limited availability in low resource settings\nand the optimal regimen of vaccine doses for HIV-infected persons in such settings has not been defined.\nFurthermore, delivery of cervical cancer prevention and treatment of precursors for WLWH in low- and middle-\nincome countries is impeded by approaches that are often costly, require multiple visits and extensive provider\ntraining. Moreover, many of these are not suitable for delivery within an HIV primary care model.\nThe Cervical Cancer Prevention Partnership (C2P2) Center involves two clinical trial sites, in Peru and the\nDominican Republic, and three cores (Administrative and Coordinating Core, Statistics and Data Management\nCore and Central Laboratory Core) in Seattle. Investigators in the C2P2 Center will jointly design, conduct and\nanalyze three clinical trials with the goal of moving toward elimination of cervical cancer among highly\nvulnerable populations with HIV in low resource settings in Latin America and the Caribbean (LAC). We seek\nto improve the quality and efficiency of prevention strategies using new approaches that will augment the\nexisting infrastructure at local HIV clinics in Peru and the Dominican Republic (DR). The aims of the\nproposed Clinical Trials Center span the continuum of cervical cancer prevention from vaccination\nthrough treatment. The trials we propose will address these technical issues and provide a more direct pipeline\nfor prevention. In this C2P2 Center, our overarching aims are:\n  Specific Aim 1: To test the effectiveness of novel approaches to cervical cancer prevention in high-\n burden HIV-infected populations in Peru and the DR by performing three clinical trials. One will assess\n the ability of HPV vaccination regimens to elicit long-lasting B cell responses, and two will assess novel\n screening, triage, and treatment approaches that will improve the quality and reach of prevention in\n low-resource settings throughout the LAC region.\n  Specific Aim 2: To build a robust multidirectional collaboration between study investigators at all sites\n that serves the needs of providers who care for women living with HIV. The Center will engage with\n leaders in the region to enhance the sustainability of efforts that target future elimination of cervical\n cancer through multiple high-impact prevention and treatment strategies.",
+   "project_title": "Colaboracion Evita: HPV-Related Cancer Prevention Partnership Center",
+   "phr_text": "PROJECT NARRATIVE - OVERALL\nThe Cervical Cancer Prevention Partnership (C2P2) program is a collaboration between investigators in the\nUS (Seattle), Peru (Lima) and the Dominican Republic (Santo Domingo). It has the following goals: 1) building\nstrong and collaborative partnerships – both among investigators at these sites and between site investigators\nand the National Cancer Institute, and 2) conducting trials in Peru and the Dominican Republic to address the\ncervical cancer prevention and treatment needs of HIV-infected populations.",
+   "spending_categories_desc": null,
+   "agency_code": "NIH",
+   "covid_response": null,
+   "arra_funded": "N",
+   "budget_start": "2024-08-01T00:00:00",
+   "budget_end": "2027-07-31T00:00:00",
+   "cfda_code": "93.399",
+   "funding_mechanism": "Research Centers",
+   "direct_cost_amt": 1470341,
+   "indirect_cost_amt": 687646,
+   "project_detail_url": "https://reporter.nih.gov/project-details/10915693",
+   "date_added": "2024-09-07T16:29:48"
+  }
+ ],
+ "publication_links": [
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 27860136,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 38776354,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 38846732,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 38698497,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 40763829,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 36177482,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 33597041,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 33165652,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 37328265,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 42223807,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 42539511,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 34143195,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 38829621,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 38410454,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 37498668,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 34615363,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 38822342,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "R01MD013769",
+   "pmid": 41473457,
+   "applid": 10536608
+  },
+  {
+   "coreproject": "T32DA007292",
+   "pmid": 33298401,
+   "applid": 11325011
+  },
+  {
+   "coreproject": "P30AI094189",
+   "pmid": 33298401,
+   "applid": 11417127
+  },
+  {
+   "coreproject": "K01DA046234",
+   "pmid": 33298401,
+   "applid": 10347282
+  }
+ ]
+}

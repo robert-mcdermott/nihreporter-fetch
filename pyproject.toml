@@ -1,22 +1,51 @@
 [project]
 name = "nihreporter-fetch"
-version = "0.1.0"
-description = "NIH RePORTER data fetching CLI"
+version = "0.2.0"
+description = "Search NIH RePORTER for funded research projects by text, investigator, organization, agency, activity code, fiscal year and more; export structured project records with linked publications as JSON, JSONL, CSV or SQLite"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "requests>=2.32.4",
 ]
 
 [project.scripts]
-nihreporter-fetch = "nihreporter_client:cli_entrypoint"
+nihreporter-fetch = "nihreporter_fetch.cli:main_cli"
+
+[project.optional-dependencies]
+# Developer tools installed with: uv sync --extra dev
+dev = [
+    "jsonschema>=4.25",
+    "mypy>=2.4",
+    "pytest>=8.3",
+    "ruff>=0.5.0",
+    "types-requests>=2.33",
+]
 
 [build-system]
-requires = ["setuptools>=69"]
-build-backend = "setuptools.build_meta"
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
 
-[tool.setuptools]
-py-modules = ["nihreporter_client", "main"]
+[tool.hatch.build.targets.wheel]
+packages = ["src/nihreporter_fetch"]
 
-[tool.uv]
-package = true
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["live: tests that call the real NIH RePORTER API (run with NIHREPORTER_FETCH_LIVE=1)"]
+
+[tool.mypy]
+python_version = "3.10"
+files = ["src"]
+check_untyped_defs = true
+warn_unused_ignores = true
+
+[tool.ruff]
+# Target Python version used for linting/formatting
+target-version = "py310"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
