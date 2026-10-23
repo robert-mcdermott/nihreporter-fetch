@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/robert-mcdermott/nihreporter-fetch/schema/output.schema.json",
+  "title": "nihreporter-fetch output",
+  "description": "A JSON output document (schema_version 1). JSONL output contains one $defs/project per line. With --raw, projects are the API's own objects instead.",
+  "type": "object",
+  "required": ["schema_version", "search_info", "projects"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {"const": 1},
+    "search_info": {"$ref": "#/$defs/search_info"},
+    "projects": {"type": "array", "items": {"$ref": "#/$defs/project"}}
+  },
+  "$defs": {
+    "str": {"type": ["string", "null"]},
+    "int": {"type": ["integer", "null"]},
+    "num": {"type": ["number", "null"]},
+    "bool": {"type": ["boolean", "null"]},
+    "date": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "timestamp": {"type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}:\\d{2}(\\.\\d+)?)?$"},
+    "strings": {"type": "array", "items": {"type": "string"}},
+    "name": {
+      "type": "object",
+      "required": ["full_name", "first_name", "middle_name", "last_name"],
+      "additionalProperties": false,
+      "properties": {
+        "full_name": {"$ref": "#/$defs/str"},
+        "first_name": {"$ref": "#/$defs/str"},
+        "middle_name": {"$ref": "#/$defs/str"},
+        "last_name": {"$ref": "#/$defs/str"}
+      }
+    },
+    "search_info": {
+      "type": "object",
+      "description": "Provenance and completeness of the run that produced the output.",
+      "required": ["tool", "generated_on", "source", "complete", "failed_batches", "failed_publications", "total_projects"],
+      "additionalProperties": false,
+      "properties": {
+        "tool": {
+          "type": "object",
+          "required": ["name", "version"],
+          "additionalProperties": false,
+          "properties": {"name": {"type": "string"}, "version": {"type": "string"}}
+        },
+        "schema_version": {"type": "integer"},
+        "generated_on": {"type": "string", "description": "UTC ISO-8601 timestamp"},
+        "api": {"type": "string"},
+        "data_timestamp": {"$ref": "#/$defs/str", "description": "When the newest project was added to RePORTER (weekly updates)"},
+        "source": {"enum": ["search", "ids", "pmids", "raw"]},
+        "criteria": {"type": "object", "description": "The API criteria sent"},
+        "filters": {"type": "object", "description": "The QuerySpec the criteria were built from"},
+        "sort": {"$ref": "#/$defs/str"},
+        "raw": {"type": "boolean"},
+        "raw_file": {"type": "string"},
+        "pmids": {"type": "integer", "description": "Number of PMIDs looked up"},
+        "max_results": {"$ref": "#/$defs/int"},
+        "total_found": {"$ref": "#/$defs/int"},
+        "expected": {"$ref": "#/$defs/int"},
+        "retrieved": {"type": "integer"},
+        "truncated": {"type": "boolean", "description": "Fewer projects were retrieved than matched (max_results or the per-search limit)"},
+        "subsearches": {"type": "integer", "description": "Searches the search was split into to get past the 15,000-record limit"},
+        "complete": {"type": "boolean"},
+        "failed_batches": {"type": "array", "items": {"type": "object"}},
+        "failed_publications": {
+          "type": "array",
+          "description": "Core projects whose publications couldn't be looked up (their publications are null)",
+          "items": {
+            "type": "object",
+            "required": ["core_project_num", "error"],
+            "additionalProperties": false,
+            "properties": {"core_project_num": {"type": "string"}, "error": {"type": "string"}}
+          }
+        },
+        "missing_ids": {"type": "array", "items": {"type": "integer"}},
+        "skipped_records": {"type": "integer"},
+        "skipped_existing": {"type": "integer"},
+        "with_publications": {"type": "boolean"},
+        "total_projects": {"type": "integer"}
+      }
+    },
+    "project": {
+      "type": "object",
+      "description": "One NIH RePORTER project record: a project (or subproject) in one fiscal year.",
+      "required": [
+        "appl_id", "project_num", "core_project_num", "subproject_id", "fiscal_year", "url", "project_title",
+        "application_type", "activity_code", "ic_code", "serial_num", "support_year", "suffix_code",
+        "funding_mechanism", "mechanism_code_dc", "cfda_code", "opportunity_number", "agency_code", "admin_ic",
+        "ic_fundings", "award_amount", "direct_cost", "indirect_cost", "award_notice_date", "budget_start",
+        "budget_end", "project_start_date", "project_end_date", "date_added", "is_active", "is_new", "arra_funded",
+        "covid_response", "contact_pi_name", "principal_investigators", "program_officers", "organization",
+        "study_section", "spending_categories", "pref_terms", "terms", "abstract_text", "phr_text", "publications"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "appl_id": {"type": "integer", "description": "Application ID: unique per project, subproject and fiscal year"},
+        "project_num": {"$ref": "#/$defs/str", "description": "Full project number, e.g. 5R01AG088223-02"},
+        "core_project_num": {"$ref": "#/$defs/str", "description": "Project number without type, year and suffix, e.g. R01AG088223"},
+        "subproject_id": {"$ref": "#/$defs/str"},
+        "fiscal_year": {"$ref": "#/$defs/int"},
+        "url": {"type": "string"},
+        "project_title": {"$ref": "#/$defs/str"},
+        "application_type": {"$ref": "#/$defs/str", "description": "1 new, 2 competing renewal, 3 supplement, 4 extension, 5 non-competing continuation, 6-9 changes"},
+        "activity_code": {"$ref": "#/$defs/str"},
+        "ic_code": {"$ref": "#/$defs/str", "description": "Two-letter institute code in the project number, e.g. CA"},
+        "serial_num": {"$ref": "#/$defs/str"},
+        "support_year": {"$ref": "#/$defs/str"},
+        "suffix_code": {"$ref": "#/$defs/str"},
+        "funding_mechanism": {"$ref": "#/$defs/str"},
+        "mechanism_code_dc": {"$ref": "#/$defs/str"},
+        "cfda_code": {"$ref": "#/$defs/str"},
+        "opportunity_number": {"$ref": "#/$defs/str"},
+        "agency_code": {"$ref": "#/$defs/str", "description": "NIH, ALLCDC, AHRQ, FDA, VA, HRSA, SAMSHA"},
+        "admin_ic": {
+          "type": ["object", "null"],
+          "required": ["code", "abbreviation", "name"],
+          "additionalProperties": false,
+          "properties": {"code": {"$ref": "#/$defs/str"}, "abbreviation": {"$ref": "#/$defs/str"}, "name": {"$ref": "#/$defs/str"}}
+        },
+        "ic_fundings": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["fiscal_year", "code", "abbreviation", "name", "total_cost", "direct_cost", "indirect_cost"],
+            "additionalProperties": false,
+            "properties": {
+              "fiscal_year": {"$ref": "#/$defs/int"},
+              "code": {"$ref": "#/$defs/str"},
+              "abbreviation": {"$ref": "#/$defs/str"},
+              "name": {"$ref": "#/$defs/str"},
+              "total_cost": {"$ref": "#/$defs/num"},
+              "direct_cost": {"$ref": "#/$defs/num"},
+              "indirect_cost": {"$ref": "#/$defs/num"}
+            }
+          }
+        },
+        "award_amount": {"$ref": "#/$defs/num", "description": "Total cost for the fiscal year, in US dollars"},
+        "direct_cost": {"$ref": "#/$defs/num"},
+        "indirect_cost": {"$ref": "#/$defs/num"},
+        "award_notice_date": {"$ref": "#/$defs/date"},
+        "budget_start": {"$ref": "#/$defs/date"},
+        "budget_end": {"$ref": "#/$defs/date"},
+        "project_start_date": {"$ref": "#/$defs/date"},
+        "project_end_date": {"$ref": "#/$defs/date"},
+        "date_added": {"$ref": "#/$defs/timestamp", "description": "When the record was added to RePORTER"},
+        "is_active": {"$ref": "#/$defs/bool"},
+        "is_new": {"$ref": "#/$defs/bool"},
+        "arra_funded": {"$ref": "#/$defs/bool"},
+        "covid_response": {"$ref": "#/$defs/strings"},
+        "contact_pi_name": {"$ref": "#/$defs/str"},
+        "principal_investigators": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["profile_id", "full_name", "first_name", "middle_name", "last_name", "title", "is_contact_pi"],
+            "additionalProperties": false,
+            "properties": {
+              "profile_id": {"$ref": "#/$defs/int"},
+              "full_name": {"$ref": "#/$defs/str"},
+              "first_name": {"$ref": "#/$defs/str"},
+              "middle_name": {"$ref": "#/$defs/str"},
+              "last_name": {"$ref": "#/$defs/str"},
+              "title": {"$ref": "#/$defs/str"},
+              "is_contact_pi": {"type": "boolean"}
+            }
+          }
+        },
+        "program_officers": {"type": "array", "items": {"$ref": "#/$defs/name"}},
+        "organization": {
+          "type": ["object", "null"],
+          "required": [
+            "name", "city", "state", "country", "zipcode", "cong_dist", "dept_type", "type", "type_code", "uei",
+            "duns", "ipf_code", "fips", "external_org_id", "latitude", "longitude"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "name": {"type": "string"},
+            "city": {"$ref": "#/$defs/str"},
+            "state": {"$ref": "#/$defs/str"},
+            "country": {"$ref": "#/$defs/str"},
+            "zipcode": {"$ref": "#/$defs/str"},
+            "cong_dist": {"$ref": "#/$defs/str"},
+            "dept_type": {"$ref": "#/$defs/str"},
+            "type": {"$ref": "#/$defs/str"},
+            "type_code": {"$ref": "#/$defs/str"},
+            "uei": {"$ref": "#/$defs/str"},
+            "duns": {"$ref": "#/$defs/str"},
+            "ipf_code": {"$ref": "#/$defs/str"},
+            "fips": {"$ref": "#/$defs/str"},
+            "external_org_id": {"$ref": "#/$defs/int"},
+            "latitude": {"$ref": "#/$defs/num"},
+            "longitude": {"$ref": "#/$defs/num"}
+          }
+        },
+        "study_section": {
+          "type": ["object", "null"],
+          "required": ["code", "flex", "sra_designator_code", "sra_flex_code", "group_code", "name"],
+          "additionalProperties": false,
+          "properties": {
+            "code": {"$ref": "#/$defs/str"},
+            "flex": {"$ref": "#/$defs/str"},
+            "sra_designator_code": {"$ref": "#/$defs/str"},
+            "sra_flex_code": {"$ref": "#/$defs/str"},
+            "group_code": {"$ref": "#/$defs/str"},
+            "name": {"$ref": "#/$defs/str"}
+          }
+        },
+        "spending_categories": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name"],
+            "additionalProperties": false,
+            "properties": {"id": {"$ref": "#/$defs/int"}, "name": {"$ref": "#/$defs/str"}}
+          }
+        },
+        "pref_terms": {"$ref": "#/$defs/strings"},
+        "terms": {"$ref": "#/$defs/strings"},
+        "abstract_text": {"$ref": "#/$defs/str"},
+        "phr_text": {"$ref": "#/$defs/str", "description": "Public health relevance statement"},
+        "publications": {
+          "type": ["array", "null"],
+          "items": {"type": "integer"},
+          "description": "PMIDs linked to the core project, sorted; null unless publications were requested"
+        }
+      }
+    }
+  }
+}
